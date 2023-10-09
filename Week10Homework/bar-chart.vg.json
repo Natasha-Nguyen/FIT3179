@@ -59,7 +59,7 @@
           "type": "nominal",
           "scale": {
             "domain": ["Africa", "Asia", "Central and South America", "Europe", "North America and the Caribbean", "Oceania"],
-            "range": ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c"]
+            "range": ["#4c78a8", "#f58518", "#e45756", "#72b7b2", "#54a24b", "#eeca3b"]
           }
         },
         "tooltip": [
