@@ -1,92 +1,106 @@
-
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {
-      "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Week10Homework/suicides_age_continent_year.csv" 
-    },
-    "params":[
-      {
-        "name": "Year_Select",
-        "value": 2019,
-        "bind": {
-          "input": "range",
-          "min": 1950,
-          "max": 2019,
-          "step": 1,
-          "name": "Year"
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Week10Homework/suicides_age_continent_year.csv"
+  },
+  "params": [
+    {
+      "name": "Year_Select",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 1950,
+        "max": 2019,
+        "step": 1,
+        "name": "Year"
       }
-    ],
-    "transform": [
-      {"filter": "datum.Year == Year_Select"},
-      {
-        "aggregate": [
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.Year == Year_Select"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "suicides",
+          "as": "Total Suicides"
+        }
+      ],
+      "groupby": [
+        "AgeGroup",
+        "Region Name"
+      ]
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "AgeGroup",
+      "type": "nominal",
+      "title": "Age Group",
+      "sort": {
+        "field": "AgeGroup"
+      }
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "Total Suicides",
+      "type": "quantitative",
+      "title": "Total Suicides"
+    }
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "color": {
+          "field": "Region Name",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Africa", "Asia", "Central and South America", "Europe", "North America and the Caribbean", "Oceania"],
+            "range": ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c"]
+          }
+        },
+        "tooltip": [
           {
-            "op": "sum",
-            "field": "suicides", 
-            "as": "Total Suicides"
+            "field": "Region Name",
+            "type": "nominal"
+          },
+          {
+            "field": "AgeGroup",
+            "type": "nominal"
+          },
+          {
+            "field": "Total Suicides",
+            "type": "quantitative",
+            "format": ","
           }
-        ],
-        "groupby": ["AgeGroup", "Region Name"] 
-      }
-      
-      
-    ],
-    "encoding": {
-      "x": {
-        "field": "AgeGroup", 
-        "type": "nominal",
-        "title": "Age Group",
-        "sort": {"field": "AgeGroup"}
-      },
-      "y": {
-        "aggregate": "sum", 
-        "field": "Total Suicides", 
-        "type": "quantitative",
-        "title": "Total Suicides"
+        ]
       }
     },
-    "layer": [
-  
-      {
-        "mark": "bar",
-        "encoding": {
-          "color": {
-            "field": "Region Name",
-            "type": "nominal",
-            "scale": {
-                "domain": ["Africa", "Asia", "Central and South America", "Europe", "North America and the Caribbean", "Oceania"],
-                "range": ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c"]
-            }
-          },
-          "tooltip": [
-            {"field": "Region Name", "type": "nominal"},
-            {"field": "AgeGroup", "type": "nominal"},
-            {"field": "Total Suicides", "type": "quantitative", "format": ","}
-          ]
-        }
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",
+        "dx": 15,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
       },
-      {
-        "mark": {
-          "type": "text",
-          "align": "right",
-          "baseline": "bottom",
-          "dx": 15,
-          "fontSize": 11.5,
-          "fontStyle": "italic"
-          },
-          "encoding": {
-            "text": {
-              "aggregate": "sum",
-              "field": "Total Suicides", 
-              "type": "quantitative"},
-            "color": {"value": "black"}
-  
-          }
+      "encoding": {
+        "text": {
+          "aggregate": "sum",
+          "field": "Total Suicides",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "black"
+        }
       }
-    ],
-    
-    "width": 500,
-    "height": 400, 
-    "title": "Total Suicides by Age and Location"
-  }
+    }
+  ],
+  "width": 400,
+  "height": 300,
+  "title": "Total Suicides by Age and Location"
+}
