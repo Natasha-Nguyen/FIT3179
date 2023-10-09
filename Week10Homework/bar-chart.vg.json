@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "suicides_age_continent_year.csv"
+      "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Week10Homework/suicides_age_continent_year.csv"
     },
     "params": [
       {
