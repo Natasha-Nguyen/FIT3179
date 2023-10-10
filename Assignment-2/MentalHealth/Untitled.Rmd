@@ -1,0 +1,43 @@
+---
+title: "MentalHealth"
+author: "Natasha Nguyen (31470567)"
+date: "2023-10-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## Read Data
+```{r}
+country_suicides <- read_csv("combined_processed_data.csv")
+
+country_suicides
+```
+
+```{r}
+country_suicides_year <-country_suicides %>% 
+  mutate(Year = as.integer(Year)) %>% 
+  select(`Country Name`, Year, `Death rate per 100 000 population`) %>% 
+  group_by(`Country Name`, `Year`)  %>% 
+  summarise(DeathRate = sum(`Death rate per 100 000 population`))
+```
+
+
+```{r}
+write.csv(country_suicides_year, file = "country_suicides_year.csv", row.names = FALSE)
+```
+
+```{r}
+continent_suicides <- country_suicides %>% 
+  select(`Region Name`, `Year`, `Death rate per 100 000 population`) %>% 
+  group_by(`Region Name`, Year) %>% 
+  summarise("Death Rate" = round(sum(`Death rate per 100 000 population`), 2))
+```
+
+```{r}
+write.csv(continent_suicides, file = "continent_suicides.csv", row.names = FALSE)
+```
+

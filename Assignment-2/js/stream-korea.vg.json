@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Suicide Rate in South Korea",
+    "width": 800,
+    "height": 500,
+    "data": {
+        "url": "suicide_SK.csv"
+    },
+    "mark": "area",
+    "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "suicides",
+              "as": "No of Suicides"
+            }
+          ],
+          "groupby": [
+            "AgeGroup",
+            "Year"
+          ]
+        }
+      ],
+    "encoding": {
+        "x": {
+            "field": "Year"
+        },
+        "y": {
+            "aggregate":"sum",
+            "field": "No of Suicides",
+            "axis": null,
+            "stack": "center"
+        },
+        "color": {
+            "field": "AgeGroup",
+            "scale": {
+                "scheme": "category20b"
+            }
+        },
+        "tooltip": [
+            {
+                "field": "AgeGroup",
+                "type": "nominal",
+                "title": "Age Group"
+            },
+            {
+                "field": "No of Suicides",
+                "type": "quantitative",
+                "format": ","
+            }
+        ]
+    }
+}

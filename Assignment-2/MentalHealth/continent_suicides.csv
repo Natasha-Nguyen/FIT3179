@@ -1,0 +1,419 @@
+"Region Name","Year","Death Rate"
+"Africa",1961,7.1
+"Africa",1962,4.95
+"Africa",1963,9.15
+"Africa",1964,7.23
+"Africa",1965,11.39
+"Africa",1966,10.57
+"Africa",1967,8.24
+"Africa",1968,4.99
+"Africa",1969,3.39
+"Africa",1970,7.45
+"Africa",1971,9.82
+"Africa",1972,6.01
+"Africa",1973,24.96
+"Africa",1974,10.93
+"Africa",1975,20.07
+"Africa",1976,12.32
+"Africa",1977,11.52
+"Africa",1978,14.94
+"Africa",1979,19.36
+"Africa",1980,6.21
+"Africa",1981,2.92
+"Africa",1982,5.07
+"Africa",1983,2.99
+"Africa",1984,23.23
+"Africa",1985,54.18
+"Africa",1986,7.81
+"Africa",1987,39.3
+"Africa",1988,33.99
+"Africa",1989,34.78
+"Africa",1990,27.66
+"Africa",1991,26.11
+"Africa",1992,33.92
+"Africa",1993,26.89
+"Africa",1994,20.76
+"Africa",1995,34.82
+"Africa",1996,27.21
+"Africa",1997,21.07
+"Africa",1998,23.58
+"Africa",1999,26.44
+"Africa",2000,23
+"Africa",2001,46.47
+"Africa",2002,58.22
+"Africa",2003,42.58
+"Africa",2004,41.88
+"Africa",2005,45.63
+"Africa",2006,58.21
+"Africa",2007,52.71
+"Africa",2008,40.05
+"Africa",2009,47.96
+"Africa",2010,44.05
+"Africa",2011,73.01
+"Africa",2012,51.66
+"Africa",2013,45.1
+"Africa",2014,40.32
+"Africa",2015,41.56
+"Africa",2016,42.93
+"Africa",2017,16.03
+"Africa",2018,16.41
+"Africa",2019,17.09
+"Africa",2020,19.53
+"Africa",2021,16.54
+"Asia",1950,84.35
+"Asia",1951,73.37
+"Asia",1952,72.04
+"Asia",1953,74.34
+"Asia",1954,77.01
+"Asia",1955,136.07
+"Asia",1956,153.37
+"Asia",1957,146.26
+"Asia",1958,152.9
+"Asia",1959,156.29
+"Asia",1960,153.63
+"Asia",1961,133.39
+"Asia",1962,132.84
+"Asia",1963,200.86
+"Asia",1964,228.56
+"Asia",1965,209.53
+"Asia",1966,204.48
+"Asia",1967,199.74
+"Asia",1968,250.32
+"Asia",1969,147.89
+"Asia",1970,182.86
+"Asia",1971,166.15
+"Asia",1972,183.63
+"Asia",1973,173.44
+"Asia",1974,171.97
+"Asia",1975,218.44
+"Asia",1976,211.8
+"Asia",1977,256.08
+"Asia",1978,194.78
+"Asia",1979,213.71
+"Asia",1980,264.2
+"Asia",1981,436.2
+"Asia",1982,426.42
+"Asia",1983,261.3
+"Asia",1984,238.66
+"Asia",1985,506.53
+"Asia",1986,490.84
+"Asia",1987,407.73
+"Asia",1988,390.14
+"Asia",1989,388.89
+"Asia",1990,377.53
+"Asia",1991,362.06
+"Asia",1992,339.65
+"Asia",1993,339.21
+"Asia",1994,376.28
+"Asia",1995,375.81
+"Asia",1996,438.43
+"Asia",1997,447.76
+"Asia",1998,467.25
+"Asia",1999,456.19
+"Asia",2000,438.66
+"Asia",2001,441.56
+"Asia",2002,423.22
+"Asia",2003,446.94
+"Asia",2004,447.5
+"Asia",2005,433.89
+"Asia",2006,415.19
+"Asia",2007,405.22
+"Asia",2008,316.56
+"Asia",2009,404.87
+"Asia",2010,402.63
+"Asia",2011,373.93
+"Asia",2012,353.8
+"Asia",2013,366.8
+"Asia",2014,345.4
+"Asia",2015,295.26
+"Asia",2016,316.43
+"Asia",2017,298.88
+"Asia",2018,284.23
+"Asia",2019,285.03
+"Asia",2020,206.33
+"Asia",2021,76.06
+"Central and South America",1953,2.49
+"Central and South America",1954,4.78
+"Central and South America",1955,79.29
+"Central and South America",1956,96.79
+"Central and South America",1957,84.68
+"Central and South America",1958,77.31
+"Central and South America",1959,85.63
+"Central and South America",1960,106.69
+"Central and South America",1961,80.28
+"Central and South America",1962,75.93
+"Central and South America",1963,122.82
+"Central and South America",1964,133.64
+"Central and South America",1965,146.86
+"Central and South America",1966,157.96
+"Central and South America",1967,149.95
+"Central and South America",1968,159.5
+"Central and South America",1969,167.5
+"Central and South America",1970,173.84
+"Central and South America",1971,137.44
+"Central and South America",1972,119.89
+"Central and South America",1973,106.71
+"Central and South America",1974,150.46
+"Central and South America",1975,157.16
+"Central and South America",1976,147.06
+"Central and South America",1977,183.15
+"Central and South America",1978,186.89
+"Central and South America",1979,212.03
+"Central and South America",1980,218.86
+"Central and South America",1981,148.68
+"Central and South America",1982,177.79
+"Central and South America",1983,130.2
+"Central and South America",1984,243.32
+"Central and South America",1985,228.44
+"Central and South America",1986,192.7
+"Central and South America",1987,196.06
+"Central and South America",1988,204.15
+"Central and South America",1989,222.37
+"Central and South America",1990,241.65
+"Central and South America",1991,193.37
+"Central and South America",1992,175.39
+"Central and South America",1993,191.27
+"Central and South America",1994,197.7
+"Central and South America",1995,254.46
+"Central and South America",1996,226.73
+"Central and South America",1997,211.09
+"Central and South America",1998,235.94
+"Central and South America",1999,294.36
+"Central and South America",2000,256.26
+"Central and South America",2001,339.39
+"Central and South America",2002,339.04
+"Central and South America",2003,343.03
+"Central and South America",2004,354.06
+"Central and South America",2005,355.94
+"Central and South America",2006,349.65
+"Central and South America",2007,364.44
+"Central and South America",2008,383.9
+"Central and South America",2009,355.54
+"Central and South America",2010,366.88
+"Central and South America",2011,319.06
+"Central and South America",2012,385.51
+"Central and South America",2013,315.81
+"Central and South America",2014,342.99
+"Central and South America",2015,295.02
+"Central and South America",2016,317.95
+"Central and South America",2017,262.29
+"Central and South America",2018,251.99
+"Central and South America",2019,238.74
+"Central and South America",2020,181.35
+"Central and South America",2021,10.02
+"Europe",1950,98.79
+"Europe",1951,333.89
+"Europe",1952,378.85
+"Europe",1953,372.72
+"Europe",1954,424.49
+"Europe",1955,605.06
+"Europe",1956,606.25
+"Europe",1957,585.58
+"Europe",1958,579.44
+"Europe",1959,599.65
+"Europe",1960,578.38
+"Europe",1961,592.69
+"Europe",1962,588.41
+"Europe",1963,582.09
+"Europe",1964,644.85
+"Europe",1965,660.01
+"Europe",1966,655.79
+"Europe",1967,697.02
+"Europe",1968,680.12
+"Europe",1969,696.45
+"Europe",1970,723.49
+"Europe",1971,702.75
+"Europe",1972,706.75
+"Europe",1973,727.26
+"Europe",1974,740.26
+"Europe",1975,721.89
+"Europe",1976,736.38
+"Europe",1977,749.74
+"Europe",1978,775.39
+"Europe",1979,811.48
+"Europe",1980,930.27
+"Europe",1981,1246.92
+"Europe",1982,1297.3
+"Europe",1983,938.35
+"Europe",1984,947.88
+"Europe",1985,1482.29
+"Europe",1986,1459.25
+"Europe",1987,1503.29
+"Europe",1988,1433.88
+"Europe",1989,1472.89
+"Europe",1990,1492.52
+"Europe",1991,1542.04
+"Europe",1992,1560.12
+"Europe",1993,1608.55
+"Europe",1994,1638.62
+"Europe",1995,1595.15
+"Europe",1996,1582.76
+"Europe",1997,1541.18
+"Europe",1998,1541.21
+"Europe",1999,1561.5
+"Europe",2000,1539.86
+"Europe",2001,1482.8
+"Europe",2002,1467.87
+"Europe",2003,1410.34
+"Europe",2004,1263.48
+"Europe",2005,1241.92
+"Europe",2006,1129.58
+"Europe",2007,1242.36
+"Europe",2008,1254.87
+"Europe",2009,1244.93
+"Europe",2010,1138.38
+"Europe",2011,1078.76
+"Europe",2012,1070.83
+"Europe",2013,1051.77
+"Europe",2014,1083.06
+"Europe",2015,969.99
+"Europe",2016,863.89
+"Europe",2017,897.93
+"Europe",2018,837.76
+"Europe",2019,713.87
+"Europe",2020,532.3
+"Europe",2021,252.31
+"North America and the Caribbean",1950,53.58
+"North America and the Caribbean",1951,58.39
+"North America and the Caribbean",1952,65.95
+"North America and the Caribbean",1953,64.84
+"North America and the Caribbean",1954,63.52
+"North America and the Caribbean",1955,80.07
+"North America and the Caribbean",1956,80.53
+"North America and the Caribbean",1957,68.42
+"North America and the Caribbean",1958,62.78
+"North America and the Caribbean",1959,50.73
+"North America and the Caribbean",1960,64.78
+"North America and the Caribbean",1961,114.39
+"North America and the Caribbean",1962,101.31
+"North America and the Caribbean",1963,101.12
+"North America and the Caribbean",1964,138.14
+"North America and the Caribbean",1965,98.17
+"North America and the Caribbean",1966,112.57
+"North America and the Caribbean",1967,78.39
+"North America and the Caribbean",1968,173.52
+"North America and the Caribbean",1969,162.1
+"North America and the Caribbean",1970,189.57
+"North America and the Caribbean",1971,187.01
+"North America and the Caribbean",1972,187.62
+"North America and the Caribbean",1973,199.43
+"North America and the Caribbean",1974,223.38
+"North America and the Caribbean",1975,211.12
+"North America and the Caribbean",1976,183.3
+"North America and the Caribbean",1977,194.56
+"North America and the Caribbean",1978,90.82
+"North America and the Caribbean",1979,120.46
+"North America and the Caribbean",1980,111.98
+"North America and the Caribbean",1981,169.23
+"North America and the Caribbean",1982,129.2
+"North America and the Caribbean",1983,175.61
+"North America and the Caribbean",1984,123.65
+"North America and the Caribbean",1985,135.46
+"North America and the Caribbean",1986,135.28
+"North America and the Caribbean",1987,149.98
+"North America and the Caribbean",1988,170.74
+"North America and the Caribbean",1989,160.99
+"North America and the Caribbean",1990,168.83
+"North America and the Caribbean",1991,145.05
+"North America and the Caribbean",1992,206.21
+"North America and the Caribbean",1993,221.17
+"North America and the Caribbean",1994,213.5
+"North America and the Caribbean",1995,228.87
+"North America and the Caribbean",1996,196.14
+"North America and the Caribbean",1997,188.26
+"North America and the Caribbean",1998,214.07
+"North America and the Caribbean",1999,181.07
+"North America and the Caribbean",2000,257.46
+"North America and the Caribbean",2001,230.81
+"North America and the Caribbean",2002,227.09
+"North America and the Caribbean",2003,216.44
+"North America and the Caribbean",2004,216.26
+"North America and the Caribbean",2005,211.73
+"North America and the Caribbean",2006,204.86
+"North America and the Caribbean",2007,178.06
+"North America and the Caribbean",2008,192.8
+"North America and the Caribbean",2009,187.36
+"North America and the Caribbean",2010,193.1
+"North America and the Caribbean",2011,198.33
+"North America and the Caribbean",2012,187.36
+"North America and the Caribbean",2013,163.55
+"North America and the Caribbean",2014,168.4
+"North America and the Caribbean",2015,160.43
+"North America and the Caribbean",2016,148.21
+"North America and the Caribbean",2017,137.95
+"North America and the Caribbean",2018,105.33
+"North America and the Caribbean",2019,98.29
+"North America and the Caribbean",2020,78.17
+"North America and the Caribbean",2021,1.61
+"Oceania",1950,55.92
+"Oceania",1951,48.01
+"Oceania",1952,58.58
+"Oceania",1953,57.43
+"Oceania",1954,53.89
+"Oceania",1955,51.05
+"Oceania",1956,52.52
+"Oceania",1957,56.3
+"Oceania",1958,63.76
+"Oceania",1959,55.06
+"Oceania",1960,52.71
+"Oceania",1961,50.48
+"Oceania",1962,57.87
+"Oceania",1963,64.61
+"Oceania",1964,56.65
+"Oceania",1965,60.79
+"Oceania",1966,61.16
+"Oceania",1967,65.37
+"Oceania",1968,56.15
+"Oceania",1969,59.63
+"Oceania",1970,56.68
+"Oceania",1971,55.04
+"Oceania",1972,54.12
+"Oceania",1973,53.06
+"Oceania",1974,53.69
+"Oceania",1975,53.44
+"Oceania",1976,49.23
+"Oceania",1977,56.73
+"Oceania",1978,55.29
+"Oceania",1979,49.52
+"Oceania",1980,53.64
+"Oceania",1981,52.28
+"Oceania",1982,56.18
+"Oceania",1983,51.52
+"Oceania",1984,55.56
+"Oceania",1985,51.12
+"Oceania",1986,56.45
+"Oceania",1987,63.2
+"Oceania",1988,58.91
+"Oceania",1989,57.06
+"Oceania",1990,56.83
+"Oceania",1991,54.49
+"Oceania",1992,55.47
+"Oceania",1993,48.22
+"Oceania",1994,57.7
+"Oceania",1995,53.34
+"Oceania",1996,56.56
+"Oceania",1997,57.33
+"Oceania",1998,56.21
+"Oceania",1999,51.79
+"Oceania",2000,48.76
+"Oceania",2001,60.46
+"Oceania",2002,69.78
+"Oceania",2003,49.68
+"Oceania",2004,65.69
+"Oceania",2005,30.19
+"Oceania",2006,49.76
+"Oceania",2007,46.39
+"Oceania",2008,51.92
+"Oceania",2009,51.24
+"Oceania",2010,44.93
+"Oceania",2011,65.94
+"Oceania",2012,60.96
+"Oceania",2013,45.22
+"Oceania",2014,46.01
+"Oceania",2015,47.79
+"Oceania",2016,46.37
+"Oceania",2017,25.79
+"Oceania",2018,24.97
+"Oceania",2019,25.6
+"Oceania",2020,23.93
+"Oceania",2021,24.25

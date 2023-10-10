@@ -1,0 +1,96 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Suicide Rates across the World",
+    "width": 800,
+    "height": 400,
+    "projection": {
+        "type": "equalEarth"
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/js/ne_110m.json",
+        "format": {
+            "type": "topojson",
+            "feature": "ne_110m_admin_0_countries"
+        }
+    },
+    "params": [
+        {
+          "name": "Year_Select",
+          "value": 2019,
+          "bind": {
+            "input": "range",
+            "min": 1950,
+            "max": 2019,
+            "step": 1,
+            "name": "Year"
+          }
+        }
+      ],
+    "layer": [
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/js/ne_110m.json",
+                "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+              },
+              "transform": [
+                {
+                  "calculate": "'Data is not available in ' + datum.properties.NAME",
+                  "as": "note"
+                }
+              ],
+              "mark": {
+                "type": "geoshape",
+                "fill": "#ddd",
+                "stroke": "white",
+                "strokeWidth": 1
+              },
+              "encoding": {"tooltip": {"field": "note"}}
+        },
+        {
+            "transform": [
+                {
+                    "lookup": "properties.NAME",
+                    "from": {
+                        "data": {
+                            "url": "country_suicides_year.csv"
+                        },
+                        "key": "Country Name",
+                        "fields": ["Year", "DeathRate"]
+                    }
+                },
+                {
+                    "filter": "datum.Year == Year_Select"
+                }
+            ],
+            "mark": {
+                "type": "geoshape"
+            },
+            "encoding": {
+                "color": {
+                    "field": "DeathRate",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [10, 20, 30, 40, 50],
+                        "range": ["#ade8f4", "#00b4d8", "#0096c7", "#0077b6", "#023e8a", "#03045e"]
+                    }
+                },
+                "tooltip": [{
+                        "field": "properties.NAME",
+                        "type": "nominal",
+                        "title": "Country Names"
+                    },
+                    {
+                        "field": "DeathRate",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Year",
+                        "type": "quantitative"
+                    }
+                ]
+            }
+        }
+    ]
+
+}
