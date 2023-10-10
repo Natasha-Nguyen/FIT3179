@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Suicide Rate in Guyana",
-    "width": 800,
-    "height": 500,
+    "width": 300,
+    "height": 200,
     "data": {
         "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Assignment-2/data/suicide_Guyana.csv"
     },
@@ -34,6 +34,7 @@
         },
         "color": {
             "field": "AgeGroup",
+            "legend":null,
             "scale": {
                 "scheme": "category20b"
             }
