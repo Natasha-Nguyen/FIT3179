@@ -4,7 +4,7 @@
     "width": 800,
     "height": 500,
     "data": {
-        "url": "suicide_Guyana.csv"
+        "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Assignment-2/data/suicide_Guyana.csv"
     },
     "mark": "area",
     "transform": [

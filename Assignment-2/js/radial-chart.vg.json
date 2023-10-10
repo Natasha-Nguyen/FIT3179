@@ -5,7 +5,7 @@
   "height": 300,
   "title": "Suicide Rate by Continent",
   "data": {
-    "url": "continent_suicides.csv"
+    "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Assignment-2/data/continent_suicides.csv"
   },
   "params": [{
     "name": "Year_Select",
