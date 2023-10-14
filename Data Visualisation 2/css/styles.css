@@ -7,10 +7,15 @@ h1 {
 }
 
 body {
-    background-color: aliceblue;
+    background-color: #ade8f4;
+}
+
+.spacing{
+    margin-top: 22px;
 }
 
 .page {
+    border-radius: 25px;
     width: 900px;
     background-color: white;
     margin: auto;
