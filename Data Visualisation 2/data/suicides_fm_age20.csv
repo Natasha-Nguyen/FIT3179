@@ -1,0 +1,2101 @@
+"Continent","Age Group","Year","Sex","Rate"
+"Africa","0-19 years",1990,"Female",107.425743219517
+"Africa","0-19 years",1990,"Male",238.842268416316
+"Africa","0-19 years",1991,"Female",105.45118422447
+"Africa","0-19 years",1991,"Male",237.27898270237
+"Africa","0-19 years",1992,"Female",105.201020307854
+"Africa","0-19 years",1992,"Male",240.649219888899
+"Africa","0-19 years",1993,"Female",103.709216662444
+"Africa","0-19 years",1993,"Male",243.93873874405
+"Africa","0-19 years",1994,"Female",101.725818993635
+"Africa","0-19 years",1994,"Male",249.183065268633
+"Africa","0-19 years",1995,"Female",99.7050918292869
+"Africa","0-19 years",1995,"Male",251.636301325394
+"Africa","0-19 years",1996,"Female",98.0992620207262
+"Africa","0-19 years",1996,"Male",252.895956205645
+"Africa","0-19 years",1997,"Female",96.361629152891
+"Africa","0-19 years",1997,"Male",253.155460949814
+"Africa","0-19 years",1998,"Female",96.3929405452789
+"Africa","0-19 years",1998,"Male",255.470393251201
+"Africa","0-19 years",1999,"Female",96.7060092686276
+"Africa","0-19 years",1999,"Male",254.366307147758
+"Africa","0-19 years",2000,"Female",96.6041882644064
+"Africa","0-19 years",2000,"Male",252.739904707113
+"Africa","0-19 years",2001,"Female",96.1004271926823
+"Africa","0-19 years",2001,"Male",251.415748555895
+"Africa","0-19 years",2002,"Female",96.4677299676125
+"Africa","0-19 years",2002,"Male",252.924053589547
+"Africa","0-19 years",2003,"Female",95.8039318475174
+"Africa","0-19 years",2003,"Male",251.130304358055
+"Africa","0-19 years",2004,"Female",95.2255700995958
+"Africa","0-19 years",2004,"Male",251.596994686107
+"Africa","0-19 years",2005,"Female",94.4556977564205
+"Africa","0-19 years",2005,"Male",249.158630642931
+"Africa","0-19 years",2006,"Female",93.0810871982776
+"Africa","0-19 years",2006,"Male",247.342482323427
+"Africa","0-19 years",2007,"Female",92.5155636963457
+"Africa","0-19 years",2007,"Male",246.060188983888
+"Africa","0-19 years",2008,"Female",91.7222234084887
+"Africa","0-19 years",2008,"Male",243.328429750381
+"Africa","0-19 years",2009,"Female",89.9242861957848
+"Africa","0-19 years",2009,"Male",240.781231070543
+"Africa","0-19 years",2010,"Female",87.4072649731601
+"Africa","0-19 years",2010,"Male",237.142977384506
+"Africa","0-19 years",2011,"Female",85.9076155084223
+"Africa","0-19 years",2011,"Male",234.24340992623
+"Africa","0-19 years",2012,"Female",84.6669537872205
+"Africa","0-19 years",2012,"Male",231.207530714228
+"Africa","0-19 years",2013,"Female",83.1937475766187
+"Africa","0-19 years",2013,"Male",229.428996708052
+"Africa","0-19 years",2014,"Female",83.7809907772551
+"Africa","0-19 years",2014,"Male",228.650668523675
+"Africa","0-19 years",2015,"Female",82.7813451502806
+"Africa","0-19 years",2015,"Male",225.986051567004
+"Africa","0-19 years",2016,"Female",81.0353881670537
+"Africa","0-19 years",2016,"Male",223.699563348168
+"Africa","0-19 years",2017,"Female",79.7151392763017
+"Africa","0-19 years",2017,"Male",221.324486677658
+"Africa","0-19 years",2018,"Female",78.0658879030211
+"Africa","0-19 years",2018,"Male",216.265903738086
+"Africa","0-19 years",2019,"Female",76.3758863791694
+"Africa","0-19 years",2019,"Male",212.259830228884
+"Africa","20-39 years",1990,"Female",1080.66392544163
+"Africa","20-39 years",1990,"Male",2756.49315753555
+"Africa","20-39 years",1991,"Female",1061.70118165319
+"Africa","20-39 years",1991,"Male",2786.9951651296
+"Africa","20-39 years",1992,"Female",1067.70913182003
+"Africa","20-39 years",1992,"Male",2837.89039532497
+"Africa","20-39 years",1993,"Female",1036.8738705689
+"Africa","20-39 years",1993,"Male",2870.99299330921
+"Africa","20-39 years",1994,"Female",1022.73528697194
+"Africa","20-39 years",1994,"Male",2940.78733912671
+"Africa","20-39 years",1995,"Female",997.414613912955
+"Africa","20-39 years",1995,"Male",3002.95613804336
+"Africa","20-39 years",1996,"Female",968.180464790038
+"Africa","20-39 years",1996,"Male",3033.47729862048
+"Africa","20-39 years",1997,"Female",962.70800589167
+"Africa","20-39 years",1997,"Male",3088.14186827059
+"Africa","20-39 years",1998,"Female",961.061230336201
+"Africa","20-39 years",1998,"Male",3164.75769093816
+"Africa","20-39 years",1999,"Female",963.721080581725
+"Africa","20-39 years",1999,"Male",3207.7878697046
+"Africa","20-39 years",2000,"Female",970.553708175896
+"Africa","20-39 years",2000,"Male",3248.40487522492
+"Africa","20-39 years",2001,"Female",959.682762305205
+"Africa","20-39 years",2001,"Male",3258.53023408554
+"Africa","20-39 years",2002,"Female",962.654912074875
+"Africa","20-39 years",2002,"Male",3287.2173778599
+"Africa","20-39 years",2003,"Female",959.956108123823
+"Africa","20-39 years",2003,"Male",3287.46868027338
+"Africa","20-39 years",2004,"Female",946.560940133458
+"Africa","20-39 years",2004,"Male",3286.48742456546
+"Africa","20-39 years",2005,"Female",922.118340445082
+"Africa","20-39 years",2005,"Male",3245.70129153268
+"Africa","20-39 years",2006,"Female",897.396449784281
+"Africa","20-39 years",2006,"Male",3215.40202075428
+"Africa","20-39 years",2007,"Female",879.133855645607
+"Africa","20-39 years",2007,"Male",3193.04121255607
+"Africa","20-39 years",2008,"Female",861.44409937515
+"Africa","20-39 years",2008,"Male",3166.76463288555
+"Africa","20-39 years",2009,"Female",848.652613586508
+"Africa","20-39 years",2009,"Male",3152.08971995139
+"Africa","20-39 years",2010,"Female",833.11393717213
+"Africa","20-39 years",2010,"Male",3132.60836056141
+"Africa","20-39 years",2011,"Female",804.871924905014
+"Africa","20-39 years",2011,"Male",3103.75834612482
+"Africa","20-39 years",2012,"Female",789.786713207143
+"Africa","20-39 years",2012,"Male",3065.27501511548
+"Africa","20-39 years",2013,"Female",777.023110702673
+"Africa","20-39 years",2013,"Male",3041.33737131933
+"Africa","20-39 years",2014,"Female",777.038991221656
+"Africa","20-39 years",2014,"Male",3057.18376294542
+"Africa","20-39 years",2015,"Female",765.364000720814
+"Africa","20-39 years",2015,"Male",3039.91165700251
+"Africa","20-39 years",2016,"Female",748.815130519506
+"Africa","20-39 years",2016,"Male",3023.72090993943
+"Africa","20-39 years",2017,"Female",737.715135838499
+"Africa","20-39 years",2017,"Male",3020.10931712771
+"Africa","20-39 years",2018,"Female",730.322872339762
+"Africa","20-39 years",2018,"Male",3020.46888147174
+"Africa","20-39 years",2019,"Female",718.682225080992
+"Africa","20-39 years",2019,"Male",2997.15905207638
+"Africa","40-59 years",1990,"Female",1963.61916044049
+"Africa","40-59 years",1990,"Male",6219.86578934189
+"Africa","40-59 years",1991,"Female",1946.15644261212
+"Africa","40-59 years",1991,"Male",6248.68565167002
+"Africa","40-59 years",1992,"Female",1941.95882512949
+"Africa","40-59 years",1992,"Male",6306.98222450677
+"Africa","40-59 years",1993,"Female",1919.7519094618
+"Africa","40-59 years",1993,"Male",6364.08919559828
+"Africa","40-59 years",1994,"Female",1912.1403766632
+"Africa","40-59 years",1994,"Male",6464.48214372873
+"Africa","40-59 years",1995,"Female",1905.98104935661
+"Africa","40-59 years",1995,"Male",6628.50781122485
+"Africa","40-59 years",1996,"Female",1886.31668015226
+"Africa","40-59 years",1996,"Male",6721.65511281395
+"Africa","40-59 years",1997,"Female",1875.67268363398
+"Africa","40-59 years",1997,"Male",6796.51503025225
+"Africa","40-59 years",1998,"Female",1881.9276109606
+"Africa","40-59 years",1998,"Male",6878.80168884715
+"Africa","40-59 years",1999,"Female",1877.96446932628
+"Africa","40-59 years",1999,"Male",6875.76254396274
+"Africa","40-59 years",2000,"Female",1874.55698017891
+"Africa","40-59 years",2000,"Male",6881.70057831808
+"Africa","40-59 years",2001,"Female",1852.30321647536
+"Africa","40-59 years",2001,"Male",6862.93930403392
+"Africa","40-59 years",2002,"Female",1844.40371925074
+"Africa","40-59 years",2002,"Male",6863.18036593595
+"Africa","40-59 years",2003,"Female",1841.82082356719
+"Africa","40-59 years",2003,"Male",6854.24918182403
+"Africa","40-59 years",2004,"Female",1829.16329897307
+"Africa","40-59 years",2004,"Male",6852.67690080057
+"Africa","40-59 years",2005,"Female",1799.54895012857
+"Africa","40-59 years",2005,"Male",6793.78653638799
+"Africa","40-59 years",2006,"Female",1764.28789750356
+"Africa","40-59 years",2006,"Male",6710.5578928773
+"Africa","40-59 years",2007,"Female",1744.10068134651
+"Africa","40-59 years",2007,"Male",6632.67143877903
+"Africa","40-59 years",2008,"Female",1725.33929829399
+"Africa","40-59 years",2008,"Male",6551.91446617896
+"Africa","40-59 years",2009,"Female",1713.30378289324
+"Africa","40-59 years",2009,"Male",6500.26814089292
+"Africa","40-59 years",2010,"Female",1696.69983850829
+"Africa","40-59 years",2010,"Male",6433.79135000733
+"Africa","40-59 years",2011,"Female",1665.14510474628
+"Africa","40-59 years",2011,"Male",6342.04244030631
+"Africa","40-59 years",2012,"Female",1651.09308633149
+"Africa","40-59 years",2012,"Male",6273.55841757186
+"Africa","40-59 years",2013,"Female",1633.21668982747
+"Africa","40-59 years",2013,"Male",6201.39203180166
+"Africa","40-59 years",2014,"Female",1627.00256483437
+"Africa","40-59 years",2014,"Male",6147.62206359551
+"Africa","40-59 years",2015,"Female",1603.49236410181
+"Africa","40-59 years",2015,"Male",6064.43806888494
+"Africa","40-59 years",2016,"Female",1585.55432695531
+"Africa","40-59 years",2016,"Male",5989.48629853188
+"Africa","40-59 years",2017,"Female",1563.24499026498
+"Africa","40-59 years",2017,"Male",5912.27942147937
+"Africa","40-59 years",2018,"Female",1537.56175077143
+"Africa","40-59 years",2018,"Male",5838.26348604272
+"Africa","40-59 years",2019,"Female",1514.74248855792
+"Africa","40-59 years",2019,"Male",5757.0757524599
+"Africa","60-79 years",1990,"Female",917.51186488318
+"Africa","60-79 years",1990,"Male",2692.65123209119
+"Africa","60-79 years",1991,"Female",914.523519234359
+"Africa","60-79 years",1991,"Male",2706.59094745446
+"Africa","60-79 years",1992,"Female",914.649840069187
+"Africa","60-79 years",1992,"Male",2732.29251658152
+"Africa","60-79 years",1993,"Female",912.169157688715
+"Africa","60-79 years",1993,"Male",2757.48163136899
+"Africa","60-79 years",1994,"Female",911.346729306242
+"Africa","60-79 years",1994,"Male",2788.20974379076
+"Africa","60-79 years",1995,"Female",915.733619089612
+"Africa","60-79 years",1995,"Male",2839.26164668153
+"Africa","60-79 years",1996,"Female",914.015183487499
+"Africa","60-79 years",1996,"Male",2867.10589010228
+"Africa","60-79 years",1997,"Female",914.304410861099
+"Africa","60-79 years",1997,"Male",2892.8558104522
+"Africa","60-79 years",1998,"Female",922.215729033889
+"Africa","60-79 years",1998,"Male",2915.42925044696
+"Africa","60-79 years",1999,"Female",923.777116044617
+"Africa","60-79 years",1999,"Male",2908.592202788
+"Africa","60-79 years",2000,"Female",923.234981896458
+"Africa","60-79 years",2000,"Male",2896.48830546968
+"Africa","60-79 years",2001,"Female",917.134333733223
+"Africa","60-79 years",2001,"Male",2880.76760978333
+"Africa","60-79 years",2002,"Female",917.240258595038
+"Africa","60-79 years",2002,"Male",2872.70446224007
+"Africa","60-79 years",2003,"Female",915.595129342292
+"Africa","60-79 years",2003,"Male",2857.54662108383
+"Africa","60-79 years",2004,"Female",911.786294333446
+"Africa","60-79 years",2004,"Male",2850.10398473462
+"Africa","60-79 years",2005,"Female",902.157498340979
+"Africa","60-79 years",2005,"Male",2831.05643462441
+"Africa","60-79 years",2006,"Female",889.747971903872
+"Africa","60-79 years",2006,"Male",2803.80043609497
+"Africa","60-79 years",2007,"Female",879.045021909802
+"Africa","60-79 years",2007,"Male",2771.0863204512
+"Africa","60-79 years",2008,"Female",870.646853463102
+"Africa","60-79 years",2008,"Male",2746.32190055755
+"Africa","60-79 years",2009,"Female",865.993819647518
+"Africa","60-79 years",2009,"Male",2729.65157891201
+"Africa","60-79 years",2010,"Female",860.648556726969
+"Africa","60-79 years",2010,"Male",2711.18124183943
+"Africa","60-79 years",2011,"Female",848.942422797317
+"Africa","60-79 years",2011,"Male",2679.91378224716
+"Africa","60-79 years",2012,"Female",841.606903914305
+"Africa","60-79 years",2012,"Male",2650.19835484155
+"Africa","60-79 years",2013,"Female",832.305838330189
+"Africa","60-79 years",2013,"Male",2619.02589189189
+"Africa","60-79 years",2014,"Female",825.709787638352
+"Africa","60-79 years",2014,"Male",2586.98229327368
+"Africa","60-79 years",2015,"Female",817.452331432884
+"Africa","60-79 years",2015,"Male",2556.57609084697
+"Africa","60-79 years",2016,"Female",811.733076183117
+"Africa","60-79 years",2016,"Male",2530.05183572506
+"Africa","60-79 years",2017,"Female",805.16870066505
+"Africa","60-79 years",2017,"Male",2503.58634430078
+"Africa","60-79 years",2018,"Female",796.548406040206
+"Africa","60-79 years",2018,"Male",2476.49226005183
+"Africa","60-79 years",2019,"Female",787.451611701615
+"Africa","60-79 years",2019,"Male",2443.81629219904
+"Africa","80+ years",1990,"Female",1308.54815762877
+"Africa","80+ years",1990,"Male",4622.30524666415
+"Africa","80+ years",1991,"Female",1305.57798124
+"Africa","80+ years",1991,"Male",4673.71773306647
+"Africa","80+ years",1992,"Female",1312.60313299482
+"Africa","80+ years",1992,"Male",4727.65367592392
+"Africa","80+ years",1993,"Female",1315.45674177663
+"Africa","80+ years",1993,"Male",4782.66680014419
+"Africa","80+ years",1994,"Female",1320.25521786657
+"Africa","80+ years",1994,"Male",4842.13816643181
+"Africa","80+ years",1995,"Female",1331.45692444429
+"Africa","80+ years",1995,"Male",4920.64889658049
+"Africa","80+ years",1996,"Female",1339.3248660861
+"Africa","80+ years",1996,"Male",4980.97646360793
+"Africa","80+ years",1997,"Female",1351.92366429785
+"Africa","80+ years",1997,"Male",5051.35661498036
+"Africa","80+ years",1998,"Female",1373.37424747138
+"Africa","80+ years",1998,"Male",5109.78597985332
+"Africa","80+ years",1999,"Female",1385.89685144227
+"Africa","80+ years",1999,"Male",5131.89975765806
+"Africa","80+ years",2000,"Female",1405.76548011686
+"Africa","80+ years",2000,"Male",5169.16090312615
+"Africa","80+ years",2001,"Female",1401.15177139145
+"Africa","80+ years",2001,"Male",5142.02686420742
+"Africa","80+ years",2002,"Female",1418.01126969073
+"Africa","80+ years",2002,"Male",5185.29786536623
+"Africa","80+ years",2003,"Female",1419.29038226416
+"Africa","80+ years",2003,"Male",5168.33334636165
+"Africa","80+ years",2004,"Female",1418.14370826735
+"Africa","80+ years",2004,"Male",5169.98422938227
+"Africa","80+ years",2005,"Female",1413.23338908194
+"Africa","80+ years",2005,"Male",5165.30138352544
+"Africa","80+ years",2006,"Female",1412.30099952794
+"Africa","80+ years",2006,"Male",5176.14702573251
+"Africa","80+ years",2007,"Female",1398.15079233849
+"Africa","80+ years",2007,"Male",5128.11886116312
+"Africa","80+ years",2008,"Female",1401.59195581956
+"Africa","80+ years",2008,"Male",5152.7850748321
+"Africa","80+ years",2009,"Female",1400.04263321159
+"Africa","80+ years",2009,"Male",5154.94380915389
+"Africa","80+ years",2010,"Female",1400.70871290135
+"Africa","80+ years",2010,"Male",5153.09537299456
+"Africa","80+ years",2011,"Female",1393.46755765813
+"Africa","80+ years",2011,"Male",5126.1401252739
+"Africa","80+ years",2012,"Female",1386.27180525522
+"Africa","80+ years",2012,"Male",5084.49813918494
+"Africa","80+ years",2013,"Female",1378.06801306045
+"Africa","80+ years",2013,"Male",5042.35169962109
+"Africa","80+ years",2014,"Female",1364.77966014593
+"Africa","80+ years",2014,"Male",4954.9734771862
+"Africa","80+ years",2015,"Female",1365.67380364445
+"Africa","80+ years",2015,"Male",4938.16379557581
+"Africa","80+ years",2016,"Female",1354.14968177163
+"Africa","80+ years",2016,"Male",4878.64943272244
+"Africa","80+ years",2017,"Female",1350.97882152796
+"Africa","80+ years",2017,"Male",4856.48421956023
+"Africa","80+ years",2018,"Female",1351.61200783166
+"Africa","80+ years",2018,"Male",4833.06983597226
+"Africa","80+ years",2019,"Female",1349.79297478501
+"Africa","80+ years",2019,"Male",4779.53353297698
+"Asia","0-19 years",1990,"Female",157.058484370077
+"Asia","0-19 years",1990,"Male",234.395821819759
+"Asia","0-19 years",1991,"Female",154.678951656399
+"Asia","0-19 years",1991,"Male",233.357005611433
+"Asia","0-19 years",1992,"Female",155.545567858181
+"Asia","0-19 years",1992,"Male",237.73196639163
+"Asia","0-19 years",1993,"Female",154.762651221524
+"Asia","0-19 years",1993,"Male",239.688528171764
+"Asia","0-19 years",1994,"Female",151.848877635914
+"Asia","0-19 years",1994,"Male",241.98561589343
+"Asia","0-19 years",1995,"Female",148.804951594484
+"Asia","0-19 years",1995,"Male",244.271406895759
+"Asia","0-19 years",1996,"Female",145.989026115785
+"Asia","0-19 years",1996,"Male",245.12052266401
+"Asia","0-19 years",1997,"Female",143.222822888575
+"Asia","0-19 years",1997,"Male",243.759868895673
+"Asia","0-19 years",1998,"Female",138.212081967328
+"Asia","0-19 years",1998,"Male",236.028302450302
+"Asia","0-19 years",1999,"Female",135.925614425032
+"Asia","0-19 years",1999,"Male",232.256167947058
+"Asia","0-19 years",2000,"Female",133.330910895568
+"Asia","0-19 years",2000,"Male",231.447913140077
+"Asia","0-19 years",2001,"Female",126.06572860592
+"Asia","0-19 years",2001,"Male",224.595930377532
+"Asia","0-19 years",2002,"Female",122.334141729552
+"Asia","0-19 years",2002,"Male",217.930457200575
+"Asia","0-19 years",2003,"Female",121.314607746387
+"Asia","0-19 years",2003,"Male",213.250668916497
+"Asia","0-19 years",2004,"Female",118.061089347553
+"Asia","0-19 years",2004,"Male",208.467037010508
+"Asia","0-19 years",2005,"Female",118.637303084488
+"Asia","0-19 years",2005,"Male",210.361502367299
+"Asia","0-19 years",2006,"Female",114.89106450196
+"Asia","0-19 years",2006,"Male",207.489267906849
+"Asia","0-19 years",2007,"Female",112.055355366723
+"Asia","0-19 years",2007,"Male",206.194106662897
+"Asia","0-19 years",2008,"Female",110.38804002738
+"Asia","0-19 years",2008,"Male",205.123609125162
+"Asia","0-19 years",2009,"Female",110.844399817011
+"Asia","0-19 years",2009,"Male",198.366308326346
+"Asia","0-19 years",2010,"Female",110.769680865511
+"Asia","0-19 years",2010,"Male",194.45019548276
+"Asia","0-19 years",2011,"Female",110.264939311672
+"Asia","0-19 years",2011,"Male",194.016850317704
+"Asia","0-19 years",2012,"Female",107.923203203887
+"Asia","0-19 years",2012,"Male",193.697181161238
+"Asia","0-19 years",2013,"Female",106.115409759215
+"Asia","0-19 years",2013,"Male",192.452234189935
+"Asia","0-19 years",2014,"Female",104.913487924847
+"Asia","0-19 years",2014,"Male",193.650322285711
+"Asia","0-19 years",2015,"Female",103.686278190993
+"Asia","0-19 years",2015,"Male",189.849826786397
+"Asia","0-19 years",2016,"Female",99.3812424729113
+"Asia","0-19 years",2016,"Male",182.688605237315
+"Asia","0-19 years",2017,"Female",95.5714749484046
+"Asia","0-19 years",2017,"Male",177.441169348158
+"Asia","0-19 years",2018,"Female",92.9961487887618
+"Asia","0-19 years",2018,"Male",173.382901415184
+"Asia","0-19 years",2019,"Female",89.3823367836277
+"Asia","0-19 years",2019,"Male",167.247585871256
+"Asia","20-39 years",1990,"Female",1225.95784322084
+"Asia","20-39 years",1990,"Male",2908.50008009965
+"Asia","20-39 years",1991,"Female",1201.64110567572
+"Asia","20-39 years",1991,"Male",2897.15105283923
+"Asia","20-39 years",1992,"Female",1195.33702672501
+"Asia","20-39 years",1992,"Male",2961.83567038242
+"Asia","20-39 years",1993,"Female",1187.10662411945
+"Asia","20-39 years",1993,"Male",3021.01552261313
+"Asia","20-39 years",1994,"Female",1198.9661519381
+"Asia","20-39 years",1994,"Male",3133.34348395333
+"Asia","20-39 years",1995,"Female",1207.02857424357
+"Asia","20-39 years",1995,"Male",3255.12974341946
+"Asia","20-39 years",1996,"Female",1194.02000256845
+"Asia","20-39 years",1996,"Male",3318.1504504263
+"Asia","20-39 years",1997,"Female",1180.35912966222
+"Asia","20-39 years",1997,"Male",3326.12237243876
+"Asia","20-39 years",1998,"Female",1174.57368216353
+"Asia","20-39 years",1998,"Male",3233.46773638428
+"Asia","20-39 years",1999,"Female",1159.04764221819
+"Asia","20-39 years",1999,"Male",3238.61290105453
+"Asia","20-39 years",2000,"Female",1127.78199450167
+"Asia","20-39 years",2000,"Male",3244.65247150597
+"Asia","20-39 years",2001,"Female",1080.49274010235
+"Asia","20-39 years",2001,"Male",3167.10769248437
+"Asia","20-39 years",2002,"Female",1039.0988770082
+"Asia","20-39 years",2002,"Male",3061.70275898493
+"Asia","20-39 years",2003,"Female",999.858677721752
+"Asia","20-39 years",2003,"Male",3000.69409123098
+"Asia","20-39 years",2004,"Female",974.992277637988
+"Asia","20-39 years",2004,"Male",2968.01169668266
+"Asia","20-39 years",2005,"Female",959.636426608928
+"Asia","20-39 years",2005,"Male",2968.87203484657
+"Asia","20-39 years",2006,"Female",935.256963846315
+"Asia","20-39 years",2006,"Male",2955.3245824848
+"Asia","20-39 years",2007,"Female",898.401677594506
+"Asia","20-39 years",2007,"Male",2900.53310345996
+"Asia","20-39 years",2008,"Female",866.285002590087
+"Asia","20-39 years",2008,"Male",2819.39194330391
+"Asia","20-39 years",2009,"Female",842.639288837955
+"Asia","20-39 years",2009,"Male",2703.53886632896
+"Asia","20-39 years",2010,"Female",824.69831366971
+"Asia","20-39 years",2010,"Male",2628.23838846929
+"Asia","20-39 years",2011,"Female",810.871848311785
+"Asia","20-39 years",2011,"Male",2592.67733288988
+"Asia","20-39 years",2012,"Female",782.706581139671
+"Asia","20-39 years",2012,"Male",2546.76017232217
+"Asia","20-39 years",2013,"Female",757.905736913324
+"Asia","20-39 years",2013,"Male",2489.59101475621
+"Asia","20-39 years",2014,"Female",735.069751824906
+"Asia","20-39 years",2014,"Male",2443.3360011303
+"Asia","20-39 years",2015,"Female",723.277651230692
+"Asia","20-39 years",2015,"Male",2411.41827269544
+"Asia","20-39 years",2016,"Female",716.739422776557
+"Asia","20-39 years",2016,"Male",2396.17682900963
+"Asia","20-39 years",2017,"Female",706.295315928021
+"Asia","20-39 years",2017,"Male",2387.2591979133
+"Asia","20-39 years",2018,"Female",702.978564984308
+"Asia","20-39 years",2018,"Male",2412.99791557222
+"Asia","20-39 years",2019,"Female",696.203827255015
+"Asia","20-39 years",2019,"Male",2418.83550019819
+"Asia","40-59 years",1990,"Female",1147.36204537684
+"Asia","40-59 years",1990,"Male",3259.02415223423
+"Asia","40-59 years",1991,"Female",1125.25981457767
+"Asia","40-59 years",1991,"Male",3234.56695222888
+"Asia","40-59 years",1992,"Female",1113.79939994068
+"Asia","40-59 years",1992,"Male",3249.36564170521
+"Asia","40-59 years",1993,"Female",1106.42796655688
+"Asia","40-59 years",1993,"Male",3324.24288013877
+"Asia","40-59 years",1994,"Female",1102.65319186446
+"Asia","40-59 years",1994,"Male",3428.95931846031
+"Asia","40-59 years",1995,"Female",1095.77115248207
+"Asia","40-59 years",1995,"Male",3535.16196611735
+"Asia","40-59 years",1996,"Female",1070.24641213357
+"Asia","40-59 years",1996,"Male",3542.99925152665
+"Asia","40-59 years",1997,"Female",1047.06775336339
+"Asia","40-59 years",1997,"Male",3528.35187661942
+"Asia","40-59 years",1998,"Female",1019.03756037282
+"Asia","40-59 years",1998,"Male",3486.98273719396
+"Asia","40-59 years",1999,"Female",997.600415064348
+"Asia","40-59 years",1999,"Male",3477.59330584463
+"Asia","40-59 years",2000,"Female",970.197286508535
+"Asia","40-59 years",2000,"Male",3471.73420151974
+"Asia","40-59 years",2001,"Female",941.298488432438
+"Asia","40-59 years",2001,"Male",3414.71815493582
+"Asia","40-59 years",2002,"Female",926.418506911655
+"Asia","40-59 years",2002,"Male",3389.3556265394
+"Asia","40-59 years",2003,"Female",918.824455931147
+"Asia","40-59 years",2003,"Male",3384.33663488441
+"Asia","40-59 years",2004,"Female",910.632060355755
+"Asia","40-59 years",2004,"Male",3339.85615245986
+"Asia","40-59 years",2005,"Female",893.558997150825
+"Asia","40-59 years",2005,"Male",3313.34892211999
+"Asia","40-59 years",2006,"Female",873.132926139825
+"Asia","40-59 years",2006,"Male",3240.45164777727
+"Asia","40-59 years",2007,"Female",844.291274557659
+"Asia","40-59 years",2007,"Male",3162.37648592584
+"Asia","40-59 years",2008,"Female",813.234774971739
+"Asia","40-59 years",2008,"Male",3049.82409468268
+"Asia","40-59 years",2009,"Female",786.769200519868
+"Asia","40-59 years",2009,"Male",2930.1936634539
+"Asia","40-59 years",2010,"Female",769.040208354177
+"Asia","40-59 years",2010,"Male",2867.78501640212
+"Asia","40-59 years",2011,"Female",757.559285907968
+"Asia","40-59 years",2011,"Male",2835.3304526364
+"Asia","40-59 years",2012,"Female",743.278034010261
+"Asia","40-59 years",2012,"Male",2787.08697290431
+"Asia","40-59 years",2013,"Female",725.405305472267
+"Asia","40-59 years",2013,"Male",2722.11043859528
+"Asia","40-59 years",2014,"Female",714.380386555502
+"Asia","40-59 years",2014,"Male",2677.55446857299
+"Asia","40-59 years",2015,"Female",704.898473726571
+"Asia","40-59 years",2015,"Male",2639.68173564352
+"Asia","40-59 years",2016,"Female",693.17511593049
+"Asia","40-59 years",2016,"Male",2604.85583607261
+"Asia","40-59 years",2017,"Female",679.236618580757
+"Asia","40-59 years",2017,"Male",2558.91214046594
+"Asia","40-59 years",2018,"Female",669.935528411188
+"Asia","40-59 years",2018,"Male",2529.92076807766
+"Asia","40-59 years",2019,"Female",662.103489643243
+"Asia","40-59 years",2019,"Male",2498.81815159697
+"Asia","60-79 years",1990,"Female",377.92205106679
+"Asia","60-79 years",1990,"Male",882.737120242576
+"Asia","60-79 years",1991,"Female",372.043657908384
+"Asia","60-79 years",1991,"Male",875.158300925956
+"Asia","60-79 years",1992,"Female",369.600387285467
+"Asia","60-79 years",1992,"Male",879.102766063862
+"Asia","60-79 years",1993,"Female",367.104237622673
+"Asia","60-79 years",1993,"Male",888.675787712789
+"Asia","60-79 years",1994,"Female",361.166930118939
+"Asia","60-79 years",1994,"Male",901.984822513092
+"Asia","60-79 years",1995,"Female",353.84554177224
+"Asia","60-79 years",1995,"Male",916.631521577426
+"Asia","60-79 years",1996,"Female",345.468170609285
+"Asia","60-79 years",1996,"Male",915.903654693021
+"Asia","60-79 years",1997,"Female",339.392428631994
+"Asia","60-79 years",1997,"Male",919.169382210534
+"Asia","60-79 years",1998,"Female",331.861267061776
+"Asia","60-79 years",1998,"Male",912.764100861796
+"Asia","60-79 years",1999,"Female",325.604004449658
+"Asia","60-79 years",1999,"Male",902.779622940603
+"Asia","60-79 years",2000,"Female",315.275005102893
+"Asia","60-79 years",2000,"Male",890.189007330672
+"Asia","60-79 years",2001,"Female",304.262506831153
+"Asia","60-79 years",2001,"Male",868.04490799184
+"Asia","60-79 years",2002,"Female",301.416050259008
+"Asia","60-79 years",2002,"Male",860.431999452112
+"Asia","60-79 years",2003,"Female",305.040347114978
+"Asia","60-79 years",2003,"Male",858.69268819114
+"Asia","60-79 years",2004,"Female",306.077989675261
+"Asia","60-79 years",2004,"Male",842.664328703297
+"Asia","60-79 years",2005,"Female",302.332521584081
+"Asia","60-79 years",2005,"Male",828.676151230965
+"Asia","60-79 years",2006,"Female",298.356782441191
+"Asia","60-79 years",2006,"Male",808.777512000268
+"Asia","60-79 years",2007,"Female",290.83678257566
+"Asia","60-79 years",2007,"Male",790.343669242106
+"Asia","60-79 years",2008,"Female",281.422457719374
+"Asia","60-79 years",2008,"Male",774.847655262685
+"Asia","60-79 years",2009,"Female",272.201315324836
+"Asia","60-79 years",2009,"Male",754.591793721668
+"Asia","60-79 years",2010,"Female",265.078639768473
+"Asia","60-79 years",2010,"Male",748.439767063775
+"Asia","60-79 years",2011,"Female",259.45314446223
+"Asia","60-79 years",2011,"Male",742.662403443645
+"Asia","60-79 years",2012,"Female",252.278865233231
+"Asia","60-79 years",2012,"Male",731.835682475842
+"Asia","60-79 years",2013,"Female",242.894568135593
+"Asia","60-79 years",2013,"Male",711.224733814984
+"Asia","60-79 years",2014,"Female",234.255934184004
+"Asia","60-79 years",2014,"Male",699.330251478838
+"Asia","60-79 years",2015,"Female",229.393177220289
+"Asia","60-79 years",2015,"Male",689.160914686553
+"Asia","60-79 years",2016,"Female",225.678542935752
+"Asia","60-79 years",2016,"Male",681.642413634478
+"Asia","60-79 years",2017,"Female",221.687467996309
+"Asia","60-79 years",2017,"Male",670.9469210927
+"Asia","60-79 years",2018,"Female",219.184251480813
+"Asia","60-79 years",2018,"Male",661.616821366184
+"Asia","60-79 years",2019,"Female",218.1413630808
+"Asia","60-79 years",2019,"Male",656.744437125382
+"Asia","80+ years",1990,"Female",670.727087470486
+"Asia","80+ years",1990,"Male",1438.1671572573
+"Asia","80+ years",1991,"Female",666.37347194323
+"Asia","80+ years",1991,"Male",1437.64342464895
+"Asia","80+ years",1992,"Female",666.72022948568
+"Asia","80+ years",1992,"Male",1441.68958710324
+"Asia","80+ years",1993,"Female",664.604912987736
+"Asia","80+ years",1993,"Male",1429.94150400325
+"Asia","80+ years",1994,"Female",673.443666665547
+"Asia","80+ years",1994,"Male",1449.29260165073
+"Asia","80+ years",1995,"Female",664.537657932137
+"Asia","80+ years",1995,"Male",1464.76628624524
+"Asia","80+ years",1996,"Female",645.194576737599
+"Asia","80+ years",1996,"Male",1475.23849253837
+"Asia","80+ years",1997,"Female",642.96655965554
+"Asia","80+ years",1997,"Male",1506.68644917109
+"Asia","80+ years",1998,"Female",637.6369153668
+"Asia","80+ years",1998,"Male",1499.62373992649
+"Asia","80+ years",1999,"Female",632.713517065185
+"Asia","80+ years",1999,"Male",1474.16650350569
+"Asia","80+ years",2000,"Female",622.465527014716
+"Asia","80+ years",2000,"Male",1437.54820718913
+"Asia","80+ years",2001,"Female",608.951437926891
+"Asia","80+ years",2001,"Male",1409.8903884795
+"Asia","80+ years",2002,"Female",611.099146093525
+"Asia","80+ years",2002,"Male",1416.89252486323
+"Asia","80+ years",2003,"Female",622.787222004463
+"Asia","80+ years",2003,"Male",1424.31499666755
+"Asia","80+ years",2004,"Female",640.508961738607
+"Asia","80+ years",2004,"Male",1410.9032166713
+"Asia","80+ years",2005,"Female",640.273426674724
+"Asia","80+ years",2005,"Male",1397.44911034388
+"Asia","80+ years",2006,"Female",639.415110010804
+"Asia","80+ years",2006,"Male",1377.61993267223
+"Asia","80+ years",2007,"Female",628.744504478542
+"Asia","80+ years",2007,"Male",1364.51735543648
+"Asia","80+ years",2008,"Female",611.772770211881
+"Asia","80+ years",2008,"Male",1350.63814915255
+"Asia","80+ years",2009,"Female",600.201446957972
+"Asia","80+ years",2009,"Male",1319.32328318236
+"Asia","80+ years",2010,"Female",589.090943508692
+"Asia","80+ years",2010,"Male",1320.62445830708
+"Asia","80+ years",2011,"Female",578.311901455505
+"Asia","80+ years",2011,"Male",1309.64140097824
+"Asia","80+ years",2012,"Female",565.131872230998
+"Asia","80+ years",2012,"Male",1296.4985202498
+"Asia","80+ years",2013,"Female",545.289010863099
+"Asia","80+ years",2013,"Male",1282.51827732854
+"Asia","80+ years",2014,"Female",515.239588719772
+"Asia","80+ years",2014,"Male",1284.03971382785
+"Asia","80+ years",2015,"Female",508.337105982574
+"Asia","80+ years",2015,"Male",1278.14210411154
+"Asia","80+ years",2016,"Female",500.663143248475
+"Asia","80+ years",2016,"Male",1278.7600865682
+"Asia","80+ years",2017,"Female",495.528856816733
+"Asia","80+ years",2017,"Male",1268.21136685146
+"Asia","80+ years",2018,"Female",485.893287577241
+"Asia","80+ years",2018,"Male",1247.49343526994
+"Asia","80+ years",2019,"Female",478.302996400776
+"Asia","80+ years",2019,"Male",1240.41447248838
+"Europe","0-19 years",1990,"Female",104.103293133446
+"Europe","0-19 years",1990,"Male",296.647437449478
+"Europe","0-19 years",1991,"Female",102.973951865519
+"Europe","0-19 years",1991,"Male",301.229589771745
+"Europe","0-19 years",1992,"Female",102.037941649203
+"Europe","0-19 years",1992,"Male",301.05076203385
+"Europe","0-19 years",1993,"Female",101.971429723822
+"Europe","0-19 years",1993,"Male",300.676991874273
+"Europe","0-19 years",1994,"Female",101.970274016985
+"Europe","0-19 years",1994,"Male",304.926255793969
+"Europe","0-19 years",1995,"Female",100.573350823253
+"Europe","0-19 years",1995,"Male",304.629061138314
+"Europe","0-19 years",1996,"Female",99.2317027643022
+"Europe","0-19 years",1996,"Male",293.239114213202
+"Europe","0-19 years",1997,"Female",98.7585496931366
+"Europe","0-19 years",1997,"Male",291.232619914739
+"Europe","0-19 years",1998,"Female",97.7280726036218
+"Europe","0-19 years",1998,"Male",294.092540712198
+"Europe","0-19 years",1999,"Female",98.1614288131253
+"Europe","0-19 years",1999,"Male",295.503433598512
+"Europe","0-19 years",2000,"Female",94.2751212179212
+"Europe","0-19 years",2000,"Male",288.097445397051
+"Europe","0-19 years",2001,"Female",89.9918020463881
+"Europe","0-19 years",2001,"Male",283.036256237693
+"Europe","0-19 years",2002,"Female",88.1562624607203
+"Europe","0-19 years",2002,"Male",269.98128134741
+"Europe","0-19 years",2003,"Female",87.9332412454363
+"Europe","0-19 years",2003,"Male",257.921206283456
+"Europe","0-19 years",2004,"Female",85.5105618111542
+"Europe","0-19 years",2004,"Male",250.84495449744
+"Europe","0-19 years",2005,"Female",82.6510030271799
+"Europe","0-19 years",2005,"Male",246.195243759156
+"Europe","0-19 years",2006,"Female",82.3106061352343
+"Europe","0-19 years",2006,"Male",247.19867636121
+"Europe","0-19 years",2007,"Female",82.2266673419876
+"Europe","0-19 years",2007,"Male",252.551272000807
+"Europe","0-19 years",2008,"Female",80.3954461558352
+"Europe","0-19 years",2008,"Male",245.637084517001
+"Europe","0-19 years",2009,"Female",75.9707992635548
+"Europe","0-19 years",2009,"Male",232.532915310009
+"Europe","0-19 years",2010,"Female",72.6439246049888
+"Europe","0-19 years",2010,"Male",221.203263981536
+"Europe","0-19 years",2011,"Female",70.3215323086235
+"Europe","0-19 years",2011,"Male",214.585630458173
+"Europe","0-19 years",2012,"Female",67.436990982416
+"Europe","0-19 years",2012,"Male",206.30433337631
+"Europe","0-19 years",2013,"Female",66.1805942201294
+"Europe","0-19 years",2013,"Male",199.879652711491
+"Europe","0-19 years",2014,"Female",65.4069903427629
+"Europe","0-19 years",2014,"Male",199.768573352036
+"Europe","0-19 years",2015,"Female",66.80971223213
+"Europe","0-19 years",2015,"Male",203.845468540061
+"Europe","0-19 years",2016,"Female",65.6805665127147
+"Europe","0-19 years",2016,"Male",194.127587925476
+"Europe","0-19 years",2017,"Female",63.5590694575063
+"Europe","0-19 years",2017,"Male",186.571618281832
+"Europe","0-19 years",2018,"Female",61.7877181912048
+"Europe","0-19 years",2018,"Male",183.647295257031
+"Europe","0-19 years",2019,"Female",60.4868681607537
+"Europe","0-19 years",2019,"Male",179.167026071833
+"Europe","20-39 years",1990,"Female",1274.69581049814
+"Europe","20-39 years",1990,"Male",4895.14299435774
+"Europe","20-39 years",1991,"Female",1256.08287219367
+"Europe","20-39 years",1991,"Male",5072.99096575072
+"Europe","20-39 years",1992,"Female",1239.54836917596
+"Europe","20-39 years",1992,"Male",5142.39327621923
+"Europe","20-39 years",1993,"Female",1248.08390119997
+"Europe","20-39 years",1993,"Male",5246.91383603553
+"Europe","20-39 years",1994,"Female",1236.8697321005
+"Europe","20-39 years",1994,"Male",5331.37929468634
+"Europe","20-39 years",1995,"Female",1212.11354348398
+"Europe","20-39 years",1995,"Male",5270.84325001579
+"Europe","20-39 years",1996,"Female",1163.23703466735
+"Europe","20-39 years",1996,"Male",5087.66509982375
+"Europe","20-39 years",1997,"Female",1146.3675872481
+"Europe","20-39 years",1997,"Male",5018.09687552842
+"Europe","20-39 years",1998,"Female",1105.60705490561
+"Europe","20-39 years",1998,"Male",4948.90739759479
+"Europe","20-39 years",1999,"Female",1087.67897885411
+"Europe","20-39 years",1999,"Male",4885.7113378636
+"Europe","20-39 years",2000,"Female",1056.12456111718
+"Europe","20-39 years",2000,"Male",4782.8840257335
+"Europe","20-39 years",2001,"Female",1020.4363104914
+"Europe","20-39 years",2001,"Male",4713.54331814896
+"Europe","20-39 years",2002,"Female",994.4555036176
+"Europe","20-39 years",2002,"Male",4604.05109774804
+"Europe","20-39 years",2003,"Female",973.07045470381
+"Europe","20-39 years",2003,"Male",4424.33799742449
+"Europe","20-39 years",2004,"Female",948.184498666677
+"Europe","20-39 years",2004,"Male",4302.58764331332
+"Europe","20-39 years",2005,"Female",929.927040248383
+"Europe","20-39 years",2005,"Male",4242.75181692205
+"Europe","20-39 years",2006,"Female",898.577157265319
+"Europe","20-39 years",2006,"Male",4171.3707335937
+"Europe","20-39 years",2007,"Female",877.687087383904
+"Europe","20-39 years",2007,"Male",4150.63542061128
+"Europe","20-39 years",2008,"Female",854.604540561862
+"Europe","20-39 years",2008,"Male",4046.41686013158
+"Europe","20-39 years",2009,"Female",826.348289064616
+"Europe","20-39 years",2009,"Male",3886.19046897197
+"Europe","20-39 years",2010,"Female",797.473852114657
+"Europe","20-39 years",2010,"Male",3743.78527500635
+"Europe","20-39 years",2011,"Female",785.227581854443
+"Europe","20-39 years",2011,"Male",3620.92418119765
+"Europe","20-39 years",2012,"Female",760.504132903169
+"Europe","20-39 years",2012,"Male",3517.02992612226
+"Europe","20-39 years",2013,"Female",751.292941265227
+"Europe","20-39 years",2013,"Male",3444.31497231554
+"Europe","20-39 years",2014,"Female",734.027429372742
+"Europe","20-39 years",2014,"Male",3374.51174529765
+"Europe","20-39 years",2015,"Female",736.313181781913
+"Europe","20-39 years",2015,"Male",3427.34501321675
+"Europe","20-39 years",2016,"Female",725.511159521228
+"Europe","20-39 years",2016,"Male",3335.18949050768
+"Europe","20-39 years",2017,"Female",720.499353651224
+"Europe","20-39 years",2017,"Male",3282.67378092572
+"Europe","20-39 years",2018,"Female",711.354137729711
+"Europe","20-39 years",2018,"Male",3296.4557933701
+"Europe","20-39 years",2019,"Female",703.863181011556
+"Europe","20-39 years",2019,"Male",3300.24990560377
+"Europe","40-59 years",1990,"Female",2188.2940473997
+"Europe","40-59 years",1990,"Male",6591.89761453928
+"Europe","40-59 years",1991,"Female",2162.85625246441
+"Europe","40-59 years",1991,"Male",6753.83574305562
+"Europe","40-59 years",1992,"Female",2147.49183720482
+"Europe","40-59 years",1992,"Male",6944.36856574493
+"Europe","40-59 years",1993,"Female",2170.09936529918
+"Europe","40-59 years",1993,"Male",7364.51159247616
+"Europe","40-59 years",1994,"Female",2178.78752781965
+"Europe","40-59 years",1994,"Male",7694.97160669541
+"Europe","40-59 years",1995,"Female",2151.14567051079
+"Europe","40-59 years",1995,"Male",7743.3881399252
+"Europe","40-59 years",1996,"Female",2069.24835454671
+"Europe","40-59 years",1996,"Male",7421.68698766291
+"Europe","40-59 years",1997,"Female",2013.53983199587
+"Europe","40-59 years",1997,"Male",7300.81668888842
+"Europe","40-59 years",1998,"Female",1955.42363975805
+"Europe","40-59 years",1998,"Male",7256.97976994504
+"Europe","40-59 years",1999,"Female",1915.27640261
+"Europe","40-59 years",1999,"Male",7056.95907806305
+"Europe","40-59 years",2000,"Female",1858.45826406116
+"Europe","40-59 years",2000,"Male",6894.39304846077
+"Europe","40-59 years",2001,"Female",1826.69197220615
+"Europe","40-59 years",2001,"Male",6885.45742502069
+"Europe","40-59 years",2002,"Female",1776.71707262576
+"Europe","40-59 years",2002,"Male",6745.7683537367
+"Europe","40-59 years",2003,"Female",1739.31931262236
+"Europe","40-59 years",2003,"Male",6560.17526184536
+"Europe","40-59 years",2004,"Female",1697.35012600372
+"Europe","40-59 years",2004,"Male",6366.12695997887
+"Europe","40-59 years",2005,"Female",1664.47926451566
+"Europe","40-59 years",2005,"Male",6328.28772874783
+"Europe","40-59 years",2006,"Female",1619.99963459338
+"Europe","40-59 years",2006,"Male",6201.36210012878
+"Europe","40-59 years",2007,"Female",1594.67417854729
+"Europe","40-59 years",2007,"Male",6106.40168458555
+"Europe","40-59 years",2008,"Female",1555.87608802079
+"Europe","40-59 years",2008,"Male",5956.40777301336
+"Europe","40-59 years",2009,"Female",1508.66337927427
+"Europe","40-59 years",2009,"Male",5757.33016570906
+"Europe","40-59 years",2010,"Female",1463.7892518972
+"Europe","40-59 years",2010,"Male",5605.63960744908
+"Europe","40-59 years",2011,"Female",1438.30512975104
+"Europe","40-59 years",2011,"Male",5486.96288852803
+"Europe","40-59 years",2012,"Female",1402.83095132412
+"Europe","40-59 years",2012,"Male",5331.91099394952
+"Europe","40-59 years",2013,"Female",1372.7621995548
+"Europe","40-59 years",2013,"Male",5171.33570676287
+"Europe","40-59 years",2014,"Female",1333.87186293013
+"Europe","40-59 years",2014,"Male",5006.08737113306
+"Europe","40-59 years",2015,"Female",1329.36684513985
+"Europe","40-59 years",2015,"Male",5001.08621498283
+"Europe","40-59 years",2016,"Female",1292.60761770328
+"Europe","40-59 years",2016,"Male",4863.09337817448
+"Europe","40-59 years",2017,"Female",1277.98769885271
+"Europe","40-59 years",2017,"Male",4756.091500671
+"Europe","40-59 years",2018,"Female",1266.15604011196
+"Europe","40-59 years",2018,"Male",4696.929789199
+"Europe","40-59 years",2019,"Female",1253.03039523599
+"Europe","40-59 years",2019,"Male",4628.14609350047
+"Europe","60-79 years",1990,"Female",696.515676728039
+"Europe","60-79 years",1990,"Male",1799.54227077812
+"Europe","60-79 years",1991,"Female",684.424988898591
+"Europe","60-79 years",1991,"Male",1799.39335670134
+"Europe","60-79 years",1992,"Female",675.156899426904
+"Europe","60-79 years",1992,"Male",1813.05051832304
+"Europe","60-79 years",1993,"Female",668.98114771226
+"Europe","60-79 years",1993,"Male",1852.90762523163
+"Europe","60-79 years",1994,"Female",657.672097996073
+"Europe","60-79 years",1994,"Male",1877.60495343526
+"Europe","60-79 years",1995,"Female",644.342459557424
+"Europe","60-79 years",1995,"Male",1881.21340644367
+"Europe","60-79 years",1996,"Female",624.153471790317
+"Europe","60-79 years",1996,"Male",1847.48939129017
+"Europe","60-79 years",1997,"Female",610.659324337551
+"Europe","60-79 years",1997,"Male",1837.94644157004
+"Europe","60-79 years",1998,"Female",593.018538148909
+"Europe","60-79 years",1998,"Male",1826.08749979876
+"Europe","60-79 years",1999,"Female",581.326598908182
+"Europe","60-79 years",1999,"Male",1792.97220414624
+"Europe","60-79 years",2000,"Female",564.605256748452
+"Europe","60-79 years",2000,"Male",1748.66726518678
+"Europe","60-79 years",2001,"Female",547.645970861133
+"Europe","60-79 years",2001,"Male",1730.41591328987
+"Europe","60-79 years",2002,"Female",531.604690469225
+"Europe","60-79 years",2002,"Male",1705.69094382553
+"Europe","60-79 years",2003,"Female",517.390611028223
+"Europe","60-79 years",2003,"Male",1667.27708392517
+"Europe","60-79 years",2004,"Female",501.390855716909
+"Europe","60-79 years",2004,"Male",1618.66528114294
+"Europe","60-79 years",2005,"Female",490.40911067818
+"Europe","60-79 years",2005,"Male",1601.02545125802
+"Europe","60-79 years",2006,"Female",475.669066015101
+"Europe","60-79 years",2006,"Male",1568.74792795477
+"Europe","60-79 years",2007,"Female",465.967792472967
+"Europe","60-79 years",2007,"Male",1539.08322436072
+"Europe","60-79 years",2008,"Female",452.903223812466
+"Europe","60-79 years",2008,"Male",1498.51996275902
+"Europe","60-79 years",2009,"Female",437.848666584264
+"Europe","60-79 years",2009,"Male",1459.80020538914
+"Europe","60-79 years",2010,"Female",425.255169746676
+"Europe","60-79 years",2010,"Male",1427.53957096073
+"Europe","60-79 years",2011,"Female",416.661845482923
+"Europe","60-79 years",2011,"Male",1406.30289964243
+"Europe","60-79 years",2012,"Female",407.210024150578
+"Europe","60-79 years",2012,"Male",1384.1190214455
+"Europe","60-79 years",2013,"Female",397.763157986114
+"Europe","60-79 years",2013,"Male",1355.97013645414
+"Europe","60-79 years",2014,"Female",388.130231789989
+"Europe","60-79 years",2014,"Male",1326.58798607052
+"Europe","60-79 years",2015,"Female",389.229832295327
+"Europe","60-79 years",2015,"Male",1331.15546304802
+"Europe","60-79 years",2016,"Female",380.316712192744
+"Europe","60-79 years",2016,"Male",1304.41749625145
+"Europe","60-79 years",2017,"Female",375.768106239966
+"Europe","60-79 years",2017,"Male",1282.90072889514
+"Europe","60-79 years",2018,"Female",372.757096935338
+"Europe","60-79 years",2018,"Male",1260.55082822818
+"Europe","60-79 years",2019,"Female",369.619549355482
+"Europe","60-79 years",2019,"Male",1238.86761345355
+"Europe","80+ years",1990,"Female",928.461035178085
+"Europe","80+ years",1990,"Male",3243.05124642056
+"Europe","80+ years",1991,"Female",913.811332176316
+"Europe","80+ years",1991,"Male",3217.31241540189
+"Europe","80+ years",1992,"Female",906.296748224525
+"Europe","80+ years",1992,"Male",3237.1035445959
+"Europe","80+ years",1993,"Female",907.624493678545
+"Europe","80+ years",1993,"Male",3294.11649411907
+"Europe","80+ years",1994,"Female",905.270791634553
+"Europe","80+ years",1994,"Male",3304.65256423303
+"Europe","80+ years",1995,"Female",900.526602165154
+"Europe","80+ years",1995,"Male",3324.90832962697
+"Europe","80+ years",1996,"Female",895.188862964274
+"Europe","80+ years",1996,"Male",3310.51811137935
+"Europe","80+ years",1997,"Female",891.860151301239
+"Europe","80+ years",1997,"Male",3294.01516050195
+"Europe","80+ years",1998,"Female",870.35159738863
+"Europe","80+ years",1998,"Male",3255.15331887601
+"Europe","80+ years",1999,"Female",846.163720092222
+"Europe","80+ years",1999,"Male",3192.4525331744
+"Europe","80+ years",2000,"Female",820.252801547432
+"Europe","80+ years",2000,"Male",3106.65182413574
+"Europe","80+ years",2001,"Female",794.856122873857
+"Europe","80+ years",2001,"Male",3007.16676330099
+"Europe","80+ years",2002,"Female",772.253638154936
+"Europe","80+ years",2002,"Male",2959.82940125302
+"Europe","80+ years",2003,"Female",752.225980026928
+"Europe","80+ years",2003,"Male",2904.97593966069
+"Europe","80+ years",2004,"Female",725.835804664266
+"Europe","80+ years",2004,"Male",2808.16342222539
+"Europe","80+ years",2005,"Female",706.950774630259
+"Europe","80+ years",2005,"Male",2771.03158874674
+"Europe","80+ years",2006,"Female",686.324017538302
+"Europe","80+ years",2006,"Male",2722.80731822381
+"Europe","80+ years",2007,"Female",674.145896316549
+"Europe","80+ years",2007,"Male",2699.81685641923
+"Europe","80+ years",2008,"Female",658.415692253856
+"Europe","80+ years",2008,"Male",2674.8120577563
+"Europe","80+ years",2009,"Female",639.117727478022
+"Europe","80+ years",2009,"Male",2630.1239646704
+"Europe","80+ years",2010,"Female",621.788019887967
+"Europe","80+ years",2010,"Male",2592.13037738759
+"Europe","80+ years",2011,"Female",611.692280726433
+"Europe","80+ years",2011,"Male",2553.95564098785
+"Europe","80+ years",2012,"Female",601.756892643307
+"Europe","80+ years",2012,"Male",2541.59458827965
+"Europe","80+ years",2013,"Female",590.5316208871
+"Europe","80+ years",2013,"Male",2518.19858531465
+"Europe","80+ years",2014,"Female",583.453556847696
+"Europe","80+ years",2014,"Male",2476.96512796287
+"Europe","80+ years",2015,"Female",582.858058063615
+"Europe","80+ years",2015,"Male",2465.72075208472
+"Europe","80+ years",2016,"Female",569.665264634571
+"Europe","80+ years",2016,"Male",2423.5564707867
+"Europe","80+ years",2017,"Female",562.790257015218
+"Europe","80+ years",2017,"Male",2401.20650616984
+"Europe","80+ years",2018,"Female",560.616518659203
+"Europe","80+ years",2018,"Male",2375.36995660959
+"Europe","80+ years",2019,"Female",554.385373761388
+"Europe","80+ years",2019,"Male",2336.48504474098
+"North America","0-19 years",1990,"Female",103.325457672477
+"North America","0-19 years",1990,"Male",147.572209143586
+"North America","0-19 years",1991,"Female",102.250430590782
+"North America","0-19 years",1991,"Male",144.533954295395
+"North America","0-19 years",1992,"Female",101.184523800919
+"North America","0-19 years",1992,"Male",142.224383237643
+"North America","0-19 years",1993,"Female",114.715243068869
+"North America","0-19 years",1993,"Male",141.832889008369
+"North America","0-19 years",1994,"Female",116.76012595137
+"North America","0-19 years",1994,"Male",141.732742270291
+"North America","0-19 years",1995,"Female",115.431069800997
+"North America","0-19 years",1995,"Male",144.365540169806
+"North America","0-19 years",1996,"Female",113.951421568822
+"North America","0-19 years",1996,"Male",144.185405981012
+"North America","0-19 years",1997,"Female",113.054280521551
+"North America","0-19 years",1997,"Male",143.43176790766
+"North America","0-19 years",1998,"Female",109.028633781489
+"North America","0-19 years",1998,"Male",143.150037217478
+"North America","0-19 years",1999,"Female",106.411272084229
+"North America","0-19 years",1999,"Male",141.481228648963
+"North America","0-19 years",2000,"Female",103.246060688449
+"North America","0-19 years",2000,"Male",140.68248140081
+"North America","0-19 years",2001,"Female",100.367136820239
+"North America","0-19 years",2001,"Male",140.795263528127
+"North America","0-19 years",2002,"Female",97.4179446256568
+"North America","0-19 years",2002,"Male",138.209944316812
+"North America","0-19 years",2003,"Female",92.2383816164376
+"North America","0-19 years",2003,"Male",137.297013551862
+"North America","0-19 years",2004,"Female",80.6350909103654
+"North America","0-19 years",2004,"Male",137.062141360001
+"North America","0-19 years",2005,"Female",79.5689089312346
+"North America","0-19 years",2005,"Male",136.908249576594
+"North America","0-19 years",2006,"Female",77.6763746618815
+"North America","0-19 years",2006,"Male",136.406300809612
+"North America","0-19 years",2007,"Female",76.5866148454268
+"North America","0-19 years",2007,"Male",133.62163454035
+"North America","0-19 years",2008,"Female",75.9191676904613
+"North America","0-19 years",2008,"Male",133.988675043695
+"North America","0-19 years",2009,"Female",73.7698909556165
+"North America","0-19 years",2009,"Male",132.398970251893
+"North America","0-19 years",2010,"Female",73.056353317466
+"North America","0-19 years",2010,"Male",129.753479048688
+"North America","0-19 years",2011,"Female",73.8547798987833
+"North America","0-19 years",2011,"Male",128.882708273141
+"North America","0-19 years",2012,"Female",70.8903898770142
+"North America","0-19 years",2012,"Male",125.356629999437
+"North America","0-19 years",2013,"Female",69.1930380354112
+"North America","0-19 years",2013,"Male",123.64530396003
+"North America","0-19 years",2014,"Female",68.7745944892317
+"North America","0-19 years",2014,"Male",123.159954719032
+"North America","0-19 years",2015,"Female",67.2292976078479
+"North America","0-19 years",2015,"Male",121.735407081336
+"North America","0-19 years",2016,"Female",66.048418132923
+"North America","0-19 years",2016,"Male",119.675515146595
+"North America","0-19 years",2017,"Female",64.6838385990934
+"North America","0-19 years",2017,"Male",118.697845927793
+"North America","0-19 years",2018,"Female",63.2985735916293
+"North America","0-19 years",2018,"Male",115.959852215763
+"North America","0-19 years",2019,"Female",61.5101795221145
+"North America","0-19 years",2019,"Male",112.24620798202
+"North America","20-39 years",1990,"Female",729.21170070678
+"North America","20-39 years",1990,"Male",2219.14734611772
+"North America","20-39 years",1991,"Female",728.672889996916
+"North America","20-39 years",1991,"Male",2234.68090324482
+"North America","20-39 years",1992,"Female",726.745731591904
+"North America","20-39 years",1992,"Male",2267.13591917084
+"North America","20-39 years",1993,"Female",767.016328862979
+"North America","20-39 years",1993,"Male",2321.61100625973
+"North America","20-39 years",1994,"Female",755.83674453024
+"North America","20-39 years",1994,"Male",2320.70937161549
+"North America","20-39 years",1995,"Female",745.41514039154
+"North America","20-39 years",1995,"Male",2357.77374272328
+"North America","20-39 years",1996,"Female",737.518734023318
+"North America","20-39 years",1996,"Male",2318.97069898008
+"North America","20-39 years",1997,"Female",729.001553648084
+"North America","20-39 years",1997,"Male",2299.01464843669
+"North America","20-39 years",1998,"Female",709.874506784709
+"North America","20-39 years",1998,"Male",2297.13674191406
+"North America","20-39 years",1999,"Female",683.718146589494
+"North America","20-39 years",1999,"Male",2251.05580991745
+"North America","20-39 years",2000,"Female",663.709577316017
+"North America","20-39 years",2000,"Male",2205.22182583301
+"North America","20-39 years",2001,"Female",646.051822141767
+"North America","20-39 years",2001,"Male",2182.30038502324
+"North America","20-39 years",2002,"Female",629.032150256426
+"North America","20-39 years",2002,"Male",2131.16553440273
+"North America","20-39 years",2003,"Female",606.277307201716
+"North America","20-39 years",2003,"Male",2110.94312939985
+"North America","20-39 years",2004,"Female",575.714144510137
+"North America","20-39 years",2004,"Male",2100.80192733603
+"North America","20-39 years",2005,"Female",559.483801582415
+"North America","20-39 years",2005,"Male",2062.89211241433
+"North America","20-39 years",2006,"Female",543.484747919204
+"North America","20-39 years",2006,"Male",2031.18644606093
+"North America","20-39 years",2007,"Female",526.285441523231
+"North America","20-39 years",2007,"Male",1967.14750861897
+"North America","20-39 years",2008,"Female",516.624752152354
+"North America","20-39 years",2008,"Male",1985.91225092516
+"North America","20-39 years",2009,"Female",505.288718342236
+"North America","20-39 years",2009,"Male",1960.97273519413
+"North America","20-39 years",2010,"Female",494.156895590206
+"North America","20-39 years",2010,"Male",1906.06065156387
+"North America","20-39 years",2011,"Female",482.068889179616
+"North America","20-39 years",2011,"Male",1860.46234720911
+"North America","20-39 years",2012,"Female",462.571558616217
+"North America","20-39 years",2012,"Male",1810.38472413036
+"North America","20-39 years",2013,"Female",454.568211031403
+"North America","20-39 years",2013,"Male",1793.28360911632
+"North America","20-39 years",2014,"Female",454.431457309802
+"North America","20-39 years",2014,"Male",1785.35249882569
+"North America","20-39 years",2015,"Female",449.323014361991
+"North America","20-39 years",2015,"Male",1766.75014038764
+"North America","20-39 years",2016,"Female",447.190955901462
+"North America","20-39 years",2016,"Male",1771.84819469838
+"North America","20-39 years",2017,"Female",442.715617258131
+"North America","20-39 years",2017,"Male",1781.42729557904
+"North America","20-39 years",2018,"Female",433.143757085856
+"North America","20-39 years",2018,"Male",1766.96223047591
+"North America","20-39 years",2019,"Female",422.589005888934
+"North America","20-39 years",2019,"Male",1733.95661363509
+"North America","40-59 years",1990,"Female",799.706884204956
+"North America","40-59 years",1990,"Male",2438.26755620699
+"North America","40-59 years",1991,"Female",794.775487824756
+"North America","40-59 years",1991,"Male",2443.55174015141
+"North America","40-59 years",1992,"Female",792.955324061104
+"North America","40-59 years",1992,"Male",2464.5918321885
+"North America","40-59 years",1993,"Female",765.491428252931
+"North America","40-59 years",1993,"Male",2489.46262850306
+"North America","40-59 years",1994,"Female",749.662421309941
+"North America","40-59 years",1994,"Male",2491.28461441364
+"North America","40-59 years",1995,"Female",737.87514391368
+"North America","40-59 years",1995,"Male",2475.78738304329
+"North America","40-59 years",1996,"Female",727.132181235186
+"North America","40-59 years",1996,"Male",2446.48236395369
+"North America","40-59 years",1997,"Female",711.617572078593
+"North America","40-59 years",1997,"Male",2448.70508879511
+"North America","40-59 years",1998,"Female",690.221266261765
+"North America","40-59 years",1998,"Male",2468.23127050648
+"North America","40-59 years",1999,"Female",662.71993867659
+"North America","40-59 years",1999,"Male",2450.25198520782
+"North America","40-59 years",2000,"Female",643.017307956212
+"North America","40-59 years",2000,"Male",2404.94393552538
+"North America","40-59 years",2001,"Female",629.231872029805
+"North America","40-59 years",2001,"Male",2384.23445674564
+"North America","40-59 years",2002,"Female",618.625304254671
+"North America","40-59 years",2002,"Male",2333.32525061583
+"North America","40-59 years",2003,"Female",608.761714451307
+"North America","40-59 years",2003,"Male",2334.00783502164
+"North America","40-59 years",2004,"Female",623.342992916003
+"North America","40-59 years",2004,"Male",2320.1672414166
+"North America","40-59 years",2005,"Female",610.547222745082
+"North America","40-59 years",2005,"Male",2288.7880856815
+"North America","40-59 years",2006,"Female",593.972427395675
+"North America","40-59 years",2006,"Male",2275.22933123192
+"North America","40-59 years",2007,"Female",582.566005100408
+"North America","40-59 years",2007,"Male",2261.09060467997
+"North America","40-59 years",2008,"Female",576.573291296867
+"North America","40-59 years",2008,"Male",2256.86108415062
+"North America","40-59 years",2009,"Female",564.505920730067
+"North America","40-59 years",2009,"Male",2238.75155058011
+"North America","40-59 years",2010,"Female",553.095407074503
+"North America","40-59 years",2010,"Male",2201.02213305999
+"North America","40-59 years",2011,"Female",535.32727748325
+"North America","40-59 years",2011,"Male",2169.29354813116
+"North America","40-59 years",2012,"Female",522.221911131304
+"North America","40-59 years",2012,"Male",2134.34788323096
+"North America","40-59 years",2013,"Female",512.978496396009
+"North America","40-59 years",2013,"Male",2122.36362811431
+"North America","40-59 years",2014,"Female",507.779979806105
+"North America","40-59 years",2014,"Male",2108.5497783471
+"North America","40-59 years",2015,"Female",498.359471676385
+"North America","40-59 years",2015,"Male",2082.2315926682
+"North America","40-59 years",2016,"Female",494.256871317496
+"North America","40-59 years",2016,"Male",2072.61895353147
+"North America","40-59 years",2017,"Female",488.636212668964
+"North America","40-59 years",2017,"Male",2063.40512907332
+"North America","40-59 years",2018,"Female",478.976976448036
+"North America","40-59 years",2018,"Male",2039.17689508169
+"North America","40-59 years",2019,"Female",467.026742326262
+"North America","40-59 years",2019,"Male",2005.70343094182
+"North America","60-79 years",1990,"Female",176.167970080799
+"North America","60-79 years",1990,"Male",692.534725067525
+"North America","60-79 years",1991,"Female",173.172796869591
+"North America","60-79 years",1991,"Male",687.928608681555
+"North America","60-79 years",1992,"Female",173.092364361166
+"North America","60-79 years",1992,"Male",687.963495094123
+"North America","60-79 years",1993,"Female",180.556571561939
+"North America","60-79 years",1993,"Male",692.047467809822
+"North America","60-79 years",1994,"Female",178.734683398898
+"North America","60-79 years",1994,"Male",692.053035155698
+"North America","60-79 years",1995,"Female",175.363800113796
+"North America","60-79 years",1995,"Male",683.610867003169
+"North America","60-79 years",1996,"Female",172.387677846993
+"North America","60-79 years",1996,"Male",675.883317361202
+"North America","60-79 years",1997,"Female",168.711321805431
+"North America","60-79 years",1997,"Male",670.287772161724
+"North America","60-79 years",1998,"Female",165.511763844008
+"North America","60-79 years",1998,"Male",675.351642610277
+"North America","60-79 years",1999,"Female",159.46719990029
+"North America","60-79 years",1999,"Male",670.927714085123
+"North America","60-79 years",2000,"Female",153.111437357278
+"North America","60-79 years",2000,"Male",659.533328356535
+"North America","60-79 years",2001,"Female",148.611087261815
+"North America","60-79 years",2001,"Male",646.137249227188
+"North America","60-79 years",2002,"Female",144.560440004976
+"North America","60-79 years",2002,"Male",627.754108306477
+"North America","60-79 years",2003,"Female",138.642177491207
+"North America","60-79 years",2003,"Male",624.864589415743
+"North America","60-79 years",2004,"Female",128.999113618922
+"North America","60-79 years",2004,"Male",623.154807188767
+"North America","60-79 years",2005,"Female",126.230218746372
+"North America","60-79 years",2005,"Male",608.322250858414
+"North America","60-79 years",2006,"Female",122.035574755463
+"North America","60-79 years",2006,"Male",598.495299543701
+"North America","60-79 years",2007,"Female",119.534877514761
+"North America","60-79 years",2007,"Male",598.302736446639
+"North America","60-79 years",2008,"Female",118.283235360189
+"North America","60-79 years",2008,"Male",594.85404323799
+"North America","60-79 years",2009,"Female",115.955411651969
+"North America","60-79 years",2009,"Male",588.12054619189
+"North America","60-79 years",2010,"Female",114.704971706973
+"North America","60-79 years",2010,"Male",581.287264042905
+"North America","60-79 years",2011,"Female",111.899320952661
+"North America","60-79 years",2011,"Male",572.603831993467
+"North America","60-79 years",2012,"Female",110.147906906868
+"North America","60-79 years",2012,"Male",569.091797620177
+"North America","60-79 years",2013,"Female",109.354006979247
+"North America","60-79 years",2013,"Male",570.24433239892
+"North America","60-79 years",2014,"Female",109.162082782211
+"North America","60-79 years",2014,"Male",570.786158176893
+"North America","60-79 years",2015,"Female",108.187947825109
+"North America","60-79 years",2015,"Male",568.420327756892
+"North America","60-79 years",2016,"Female",107.472026685054
+"North America","60-79 years",2016,"Male",567.633256147771
+"North America","60-79 years",2017,"Female",107.338467775662
+"North America","60-79 years",2017,"Male",565.709135071965
+"North America","60-79 years",2018,"Female",106.293294967291
+"North America","60-79 years",2018,"Male",563.789254320581
+"North America","60-79 years",2019,"Female",104.157068888781
+"North America","60-79 years",2019,"Male",560.926382726184
+"North America","80+ years",1990,"Female",152.262606479139
+"North America","80+ years",1990,"Male",1097.79177131042
+"North America","80+ years",1991,"Female",150.019785176988
+"North America","80+ years",1991,"Male",1103.63988584371
+"North America","80+ years",1992,"Female",152.21333310916
+"North America","80+ years",1992,"Male",1122.01039156286
+"North America","80+ years",1993,"Female",156.963899291716
+"North America","80+ years",1993,"Male",1139.52061976755
+"North America","80+ years",1994,"Female",155.014282812138
+"North America","80+ years",1994,"Male",1137.80569687038
+"North America","80+ years",1995,"Female",155.287240211084
+"North America","80+ years",1995,"Male",1129.02534148743
+"North America","80+ years",1996,"Female",153.747203529054
+"North America","80+ years",1996,"Male",1124.71047099759
+"North America","80+ years",1997,"Female",150.209557839994
+"North America","80+ years",1997,"Male",1116.58232147941
+"North America","80+ years",1998,"Female",147.588796199947
+"North America","80+ years",1998,"Male",1127.82762704771
+"North America","80+ years",1999,"Female",142.882078462151
+"North America","80+ years",1999,"Male",1136.87041155198
+"North America","80+ years",2000,"Female",140.311314891856
+"North America","80+ years",2000,"Male",1127.06810525155
+"North America","80+ years",2001,"Female",139.032075718044
+"North America","80+ years",2001,"Male",1116.51010376976
+"North America","80+ years",2002,"Female",136.25211452044
+"North America","80+ years",2002,"Male",1099.13696281556
+"North America","80+ years",2003,"Female",133.247436441152
+"North America","80+ years",2003,"Male",1102.43309309717
+"North America","80+ years",2004,"Female",130.068088115076
+"North America","80+ years",2004,"Male",1088.5125031496
+"North America","80+ years",2005,"Female",128.533086573518
+"North America","80+ years",2005,"Male",1068.76352458864
+"North America","80+ years",2006,"Female",124.097506680803
+"North America","80+ years",2006,"Male",1054.47603701529
+"North America","80+ years",2007,"Female",122.990139710281
+"North America","80+ years",2007,"Male",1055.18912181229
+"North America","80+ years",2008,"Female",123.925257222365
+"North America","80+ years",2008,"Male",1053.65174143272
+"North America","80+ years",2009,"Female",124.459055307062
+"North America","80+ years",2009,"Male",1051.29287957247
+"North America","80+ years",2010,"Female",125.486485514045
+"North America","80+ years",2010,"Male",1047.73957576792
+"North America","80+ years",2011,"Female",124.277746767463
+"North America","80+ years",2011,"Male",1028.65291176408
+"North America","80+ years",2012,"Female",122.284244190151
+"North America","80+ years",2012,"Male",1009.5556653261
+"North America","80+ years",2013,"Female",121.974300316901
+"North America","80+ years",2013,"Male",1010.13566326755
+"North America","80+ years",2014,"Female",121.604225541067
+"North America","80+ years",2014,"Male",1007.87953080773
+"North America","80+ years",2015,"Female",121.217118162236
+"North America","80+ years",2015,"Male",1008.55087132426
+"North America","80+ years",2016,"Female",120.031508165003
+"North America","80+ years",2016,"Male",1008.79302990738
+"North America","80+ years",2017,"Female",119.958037643297
+"North America","80+ years",2017,"Male",1007.54832136073
+"North America","80+ years",2018,"Female",119.039179725267
+"North America","80+ years",2018,"Male",1004.15174454634
+"North America","80+ years",2019,"Female",116.919141441742
+"North America","80+ years",2019,"Male",988.234348029899
+"Oceania","0-19 years",1990,"Female",134.471405801142
+"Oceania","0-19 years",1990,"Male",295.469550842699
+"Oceania","0-19 years",1991,"Female",135.772109564081
+"Oceania","0-19 years",1991,"Male",294.402971029782
+"Oceania","0-19 years",1992,"Female",136.411900477744
+"Oceania","0-19 years",1992,"Male",292.425585544035
+"Oceania","0-19 years",1993,"Female",138.332453100271
+"Oceania","0-19 years",1993,"Male",291.183083131876
+"Oceania","0-19 years",1994,"Female",139.594849706561
+"Oceania","0-19 years",1994,"Male",293.348246802185
+"Oceania","0-19 years",1995,"Female",138.425188690584
+"Oceania","0-19 years",1995,"Male",295.683135852985
+"Oceania","0-19 years",1996,"Female",138.800709875179
+"Oceania","0-19 years",1996,"Male",298.731367677012
+"Oceania","0-19 years",1997,"Female",139.609909142807
+"Oceania","0-19 years",1997,"Male",299.015183795955
+"Oceania","0-19 years",1998,"Female",138.41528478709
+"Oceania","0-19 years",1998,"Male",295.190752970746
+"Oceania","0-19 years",1999,"Female",137.574089883414
+"Oceania","0-19 years",1999,"Male",293.581891081495
+"Oceania","0-19 years",2000,"Female",136.259166835385
+"Oceania","0-19 years",2000,"Male",289.474786917169
+"Oceania","0-19 years",2001,"Female",136.184482286566
+"Oceania","0-19 years",2001,"Male",283.704835040006
+"Oceania","0-19 years",2002,"Female",134.14897152271
+"Oceania","0-19 years",2002,"Male",278.208825305359
+"Oceania","0-19 years",2003,"Female",132.278163323419
+"Oceania","0-19 years",2003,"Male",276.490643239533
+"Oceania","0-19 years",2004,"Female",128.606672161757
+"Oceania","0-19 years",2004,"Male",274.302843461244
+"Oceania","0-19 years",2005,"Female",124.813070553705
+"Oceania","0-19 years",2005,"Male",271.598336641135
+"Oceania","0-19 years",2006,"Female",122.802381064394
+"Oceania","0-19 years",2006,"Male",270.868303560706
+"Oceania","0-19 years",2007,"Female",121.742169228345
+"Oceania","0-19 years",2007,"Male",269.38088349152
+"Oceania","0-19 years",2008,"Female",121.326275765627
+"Oceania","0-19 years",2008,"Male",267.332484790093
+"Oceania","0-19 years",2009,"Female",120.354835294388
+"Oceania","0-19 years",2009,"Male",266.767423092079
+"Oceania","0-19 years",2010,"Female",120.665153935288
+"Oceania","0-19 years",2010,"Male",265.514800309662
+"Oceania","0-19 years",2011,"Female",121.446616372494
+"Oceania","0-19 years",2011,"Male",263.92119012429
+"Oceania","0-19 years",2012,"Female",122.223632918136
+"Oceania","0-19 years",2012,"Male",261.715049938738
+"Oceania","0-19 years",2013,"Female",121.824792125219
+"Oceania","0-19 years",2013,"Male",258.428291103746
+"Oceania","0-19 years",2014,"Female",120.598294619899
+"Oceania","0-19 years",2014,"Male",255.935599475511
+"Oceania","0-19 years",2015,"Female",120.939456297562
+"Oceania","0-19 years",2015,"Male",252.794530011832
+"Oceania","0-19 years",2016,"Female",118.553014549033
+"Oceania","0-19 years",2016,"Male",248.703265853811
+"Oceania","0-19 years",2017,"Female",116.234768827051
+"Oceania","0-19 years",2017,"Male",244.632668638388
+"Oceania","0-19 years",2018,"Female",115.419517672709
+"Oceania","0-19 years",2018,"Male",243.598637519396
+"Oceania","0-19 years",2019,"Female",113.655063834583
+"Oceania","0-19 years",2019,"Male",238.010712314389
+"Oceania","20-39 years",1990,"Female",828.670430710003
+"Oceania","20-39 years",1990,"Male",3185.00049327294
+"Oceania","20-39 years",1991,"Female",835.027363636602
+"Oceania","20-39 years",1991,"Male",3239.56842655241
+"Oceania","20-39 years",1992,"Female",838.215480906583
+"Oceania","20-39 years",1992,"Male",3288.60723844879
+"Oceania","20-39 years",1993,"Female",837.969557349908
+"Oceania","20-39 years",1993,"Male",3298.64347081371
+"Oceania","20-39 years",1994,"Female",836.065225333736
+"Oceania","20-39 years",1994,"Male",3251.67364177492
+"Oceania","20-39 years",1995,"Female",837.706610610925
+"Oceania","20-39 years",1995,"Male",3276.73076086378
+"Oceania","20-39 years",1996,"Female",835.813642674076
+"Oceania","20-39 years",1996,"Male",3282.3032628137
+"Oceania","20-39 years",1997,"Female",834.862708126255
+"Oceania","20-39 years",1997,"Male",3281.52667921864
+"Oceania","20-39 years",1998,"Female",821.101896930168
+"Oceania","20-39 years",1998,"Male",3263.24092279526
+"Oceania","20-39 years",1999,"Female",811.405811915355
+"Oceania","20-39 years",1999,"Male",3236.53233772549
+"Oceania","20-39 years",2000,"Female",799.486121398741
+"Oceania","20-39 years",2000,"Male",3197.86403469609
+"Oceania","20-39 years",2001,"Female",787.656462915122
+"Oceania","20-39 years",2001,"Male",3150.15954117345
+"Oceania","20-39 years",2002,"Female",772.708478740848
+"Oceania","20-39 years",2002,"Male",3092.76658891343
+"Oceania","20-39 years",2003,"Female",759.687457275193
+"Oceania","20-39 years",2003,"Male",3058.94422559458
+"Oceania","20-39 years",2004,"Female",748.581557969745
+"Oceania","20-39 years",2004,"Male",3024.49468989529
+"Oceania","20-39 years",2005,"Female",739.548049554394
+"Oceania","20-39 years",2005,"Male",3028.44924039256
+"Oceania","20-39 years",2006,"Female",730.967628941568
+"Oceania","20-39 years",2006,"Male",3017.04445900266
+"Oceania","20-39 years",2007,"Female",726.012319919192
+"Oceania","20-39 years",2007,"Male",3016.44727198826
+"Oceania","20-39 years",2008,"Female",727.812056713495
+"Oceania","20-39 years",2008,"Male",3007.14711965498
+"Oceania","20-39 years",2009,"Female",723.850889986138
+"Oceania","20-39 years",2009,"Male",3001.75486314332
+"Oceania","20-39 years",2010,"Female",718.464273442395
+"Oceania","20-39 years",2010,"Male",2980.75311388371
+"Oceania","20-39 years",2011,"Female",713.257500300866
+"Oceania","20-39 years",2011,"Male",2973.86507377221
+"Oceania","20-39 years",2012,"Female",707.286869651779
+"Oceania","20-39 years",2012,"Male",2969.10526462111
+"Oceania","20-39 years",2013,"Female",701.317593759204
+"Oceania","20-39 years",2013,"Male",2964.18104068159
+"Oceania","20-39 years",2014,"Female",697.443594530629
+"Oceania","20-39 years",2014,"Male",2974.79679440647
+"Oceania","20-39 years",2015,"Female",697.063043368246
+"Oceania","20-39 years",2015,"Male",3003.27824409534
+"Oceania","20-39 years",2016,"Female",690.969521728692
+"Oceania","20-39 years",2016,"Male",3032.46260044565
+"Oceania","20-39 years",2017,"Female",683.662640890043
+"Oceania","20-39 years",2017,"Male",3036.5484606683
+"Oceania","20-39 years",2018,"Female",674.141244958054
+"Oceania","20-39 years",2018,"Male",3005.47063848219
+"Oceania","20-39 years",2019,"Female",665.548780765877
+"Oceania","20-39 years",2019,"Male",2960.2722196946
+"Oceania","40-59 years",1990,"Female",636.488947974621
+"Oceania","40-59 years",1990,"Male",2240.3873218587
+"Oceania","40-59 years",1991,"Female",635.394963525212
+"Oceania","40-59 years",1991,"Male",2239.9323918879
+"Oceania","40-59 years",1992,"Female",632.638268399378
+"Oceania","40-59 years",1992,"Male",2233.17520885509
+"Oceania","40-59 years",1993,"Female",627.36965564762
+"Oceania","40-59 years",1993,"Male",2217.48609793496
+"Oceania","40-59 years",1994,"Female",623.351813095691
+"Oceania","40-59 years",1994,"Male",2200.02580282731
+"Oceania","40-59 years",1995,"Female",617.570084460993
+"Oceania","40-59 years",1995,"Male",2187.1686421345
+"Oceania","40-59 years",1996,"Female",610.350642026949
+"Oceania","40-59 years",1996,"Male",2174.92517035794
+"Oceania","40-59 years",1997,"Female",607.433710675699
+"Oceania","40-59 years",1997,"Male",2163.11142264471
+"Oceania","40-59 years",1998,"Female",595.8388459775
+"Oceania","40-59 years",1998,"Male",2137.20176453701
+"Oceania","40-59 years",1999,"Female",584.106885888714
+"Oceania","40-59 years",1999,"Male",2113.30352862878
+"Oceania","40-59 years",2000,"Female",570.191475125232
+"Oceania","40-59 years",2000,"Male",2087.98998205151
+"Oceania","40-59 years",2001,"Female",561.534836767632
+"Oceania","40-59 years",2001,"Male",2065.26336741621
+"Oceania","40-59 years",2002,"Female",548.228076897628
+"Oceania","40-59 years",2002,"Male",2040.83827400131
+"Oceania","40-59 years",2003,"Female",537.268727772989
+"Oceania","40-59 years",2003,"Male",2029.63155936339
+"Oceania","40-59 years",2004,"Female",529.820132864987
+"Oceania","40-59 years",2004,"Male",2006.03500622847
+"Oceania","40-59 years",2005,"Female",526.626051559455
+"Oceania","40-59 years",2005,"Male",2008.19130911714
+"Oceania","40-59 years",2006,"Female",526.502818799741
+"Oceania","40-59 years",2006,"Male",2008.222746168
+"Oceania","40-59 years",2007,"Female",525.10400195307
+"Oceania","40-59 years",2007,"Male",2014.76592011249
+"Oceania","40-59 years",2008,"Female",525.146395989093
+"Oceania","40-59 years",2008,"Male",2014.80223912305
+"Oceania","40-59 years",2009,"Female",525.260191872152
+"Oceania","40-59 years",2009,"Male",2012.12852080017
+"Oceania","40-59 years",2010,"Female",523.511526817349
+"Oceania","40-59 years",2010,"Male",2007.0654521397
+"Oceania","40-59 years",2011,"Female",521.34964533982
+"Oceania","40-59 years",2011,"Male",1995.12113156577
+"Oceania","40-59 years",2012,"Female",521.353345809849
+"Oceania","40-59 years",2012,"Male",1987.64408539335
+"Oceania","40-59 years",2013,"Female",519.179269343269
+"Oceania","40-59 years",2013,"Male",1978.31331447121
+"Oceania","40-59 years",2014,"Female",515.832528744881
+"Oceania","40-59 years",2014,"Male",1970.20602478921
+"Oceania","40-59 years",2015,"Female",514.787252562398
+"Oceania","40-59 years",2015,"Male",1957.90614446809
+"Oceania","40-59 years",2016,"Female",508.347721875621
+"Oceania","40-59 years",2016,"Male",1945.25626789503
+"Oceania","40-59 years",2017,"Female",500.426579230116
+"Oceania","40-59 years",2017,"Male",1921.98242582504
+"Oceania","40-59 years",2018,"Female",493.959449219091
+"Oceania","40-59 years",2018,"Male",1902.09628996687
+"Oceania","40-59 years",2019,"Female",488.688662899928
+"Oceania","40-59 years",2019,"Male",1878.30875084506
+"Oceania","60-79 years",1990,"Female",246.448939174825
+"Oceania","60-79 years",1990,"Male",569.359043020895
+"Oceania","60-79 years",1991,"Female",245.027241700122
+"Oceania","60-79 years",1991,"Male",565.541789511677
+"Oceania","60-79 years",1992,"Female",243.219399516835
+"Oceania","60-79 years",1992,"Male",561.678197304265
+"Oceania","60-79 years",1993,"Female",240.264522147486
+"Oceania","60-79 years",1993,"Male",554.863424925629
+"Oceania","60-79 years",1994,"Female",236.999719680359
+"Oceania","60-79 years",1994,"Male",541.138955585126
+"Oceania","60-79 years",1995,"Female",234.587453734608
+"Oceania","60-79 years",1995,"Male",532.894760360054
+"Oceania","60-79 years",1996,"Female",231.852974342229
+"Oceania","60-79 years",1996,"Male",526.32353129334
+"Oceania","60-79 years",1997,"Female",229.603219470419
+"Oceania","60-79 years",1997,"Male",520.673200803473
+"Oceania","60-79 years",1998,"Female",225.942271543941
+"Oceania","60-79 years",1998,"Male",513.397188163797
+"Oceania","60-79 years",1999,"Female",221.81888668257
+"Oceania","60-79 years",1999,"Male",505.027004052724
+"Oceania","60-79 years",2000,"Female",218.348834760763
+"Oceania","60-79 years",2000,"Male",495.826416168078
+"Oceania","60-79 years",2001,"Female",216.037185262516
+"Oceania","60-79 years",2001,"Male",488.034791198268
+"Oceania","60-79 years",2002,"Female",212.020906459991
+"Oceania","60-79 years",2002,"Male",478.246980793943
+"Oceania","60-79 years",2003,"Female",208.548845987969
+"Oceania","60-79 years",2003,"Male",470.95379422815
+"Oceania","60-79 years",2004,"Female",203.813404693324
+"Oceania","60-79 years",2004,"Male",462.674870096603
+"Oceania","60-79 years",2005,"Female",199.66935780373
+"Oceania","60-79 years",2005,"Male",457.511699813399
+"Oceania","60-79 years",2006,"Female",198.097435150179
+"Oceania","60-79 years",2006,"Male",455.956315934706
+"Oceania","60-79 years",2007,"Female",196.620440371217
+"Oceania","60-79 years",2007,"Male",455.534492612895
+"Oceania","60-79 years",2008,"Female",196.901861457359
+"Oceania","60-79 years",2008,"Male",452.093523497052
+"Oceania","60-79 years",2009,"Female",196.237561796377
+"Oceania","60-79 years",2009,"Male",449.140074939261
+"Oceania","60-79 years",2010,"Female",195.495554815862
+"Oceania","60-79 years",2010,"Male",447.462096584185
+"Oceania","60-79 years",2011,"Female",195.260364274018
+"Oceania","60-79 years",2011,"Male",445.542213283808
+"Oceania","60-79 years",2012,"Female",195.717160985761
+"Oceania","60-79 years",2012,"Male",444.915762956274
+"Oceania","60-79 years",2013,"Female",195.544032006329
+"Oceania","60-79 years",2013,"Male",444.869261989848
+"Oceania","60-79 years",2014,"Female",195.258564832887
+"Oceania","60-79 years",2014,"Male",446.360022316
+"Oceania","60-79 years",2015,"Female",195.257632178585
+"Oceania","60-79 years",2015,"Male",446.79558137759
+"Oceania","60-79 years",2016,"Female",192.814350337267
+"Oceania","60-79 years",2016,"Male",446.672874522431
+"Oceania","60-79 years",2017,"Female",190.313018817008
+"Oceania","60-79 years",2017,"Male",442.596412047509
+"Oceania","60-79 years",2018,"Female",189.02676594671
+"Oceania","60-79 years",2018,"Male",441.024593101189
+"Oceania","60-79 years",2019,"Female",188.05735396923
+"Oceania","60-79 years",2019,"Male",438.66149250956
+"Oceania","80+ years",1990,"Female",372.551764708115
+"Oceania","80+ years",1990,"Male",983.08661298847
+"Oceania","80+ years",1991,"Female",375.571413574842
+"Oceania","80+ years",1991,"Male",981.981764245962
+"Oceania","80+ years",1992,"Female",376.270760368251
+"Oceania","80+ years",1992,"Male",979.009891820782
+"Oceania","80+ years",1993,"Female",373.694783766631
+"Oceania","80+ years",1993,"Male",972.951993742284
+"Oceania","80+ years",1994,"Female",369.419197940648
+"Oceania","80+ years",1994,"Male",957.852409521152
+"Oceania","80+ years",1995,"Female",367.238485979644
+"Oceania","80+ years",1995,"Male",943.27650687237
+"Oceania","80+ years",1996,"Female",364.143326527747
+"Oceania","80+ years",1996,"Male",932.580327829207
+"Oceania","80+ years",1997,"Female",363.920322832457
+"Oceania","80+ years",1997,"Male",923.270576292879
+"Oceania","80+ years",1998,"Female",361.038789079455
+"Oceania","80+ years",1998,"Male",913.827205683202
+"Oceania","80+ years",1999,"Female",354.50004173347
+"Oceania","80+ years",1999,"Male",907.934498536392
+"Oceania","80+ years",2000,"Female",352.160861747236
+"Oceania","80+ years",2000,"Male",904.514864885228
+"Oceania","80+ years",2001,"Female",351.633845281933
+"Oceania","80+ years",2001,"Male",897.733329646361
+"Oceania","80+ years",2002,"Female",348.799886759039
+"Oceania","80+ years",2002,"Male",891.880716666604
+"Oceania","80+ years",2003,"Female",346.405272394512
+"Oceania","80+ years",2003,"Male",888.229204450694
+"Oceania","80+ years",2004,"Female",338.941302725799
+"Oceania","80+ years",2004,"Male",877.767840524416
+"Oceania","80+ years",2005,"Female",332.004128264959
+"Oceania","80+ years",2005,"Male",868.813773050916
+"Oceania","80+ years",2006,"Female",330.978798194064
+"Oceania","80+ years",2006,"Male",868.012116823664
+"Oceania","80+ years",2007,"Female",330.526872576062
+"Oceania","80+ years",2007,"Male",870.990391553514
+"Oceania","80+ years",2008,"Female",335.020063706111
+"Oceania","80+ years",2008,"Male",868.965864254834
+"Oceania","80+ years",2009,"Female",338.294979246342
+"Oceania","80+ years",2009,"Male",865.014911196161
+"Oceania","80+ years",2010,"Female",342.13602487277
+"Oceania","80+ years",2010,"Male",864.248662502995
+"Oceania","80+ years",2011,"Female",345.027177347636
+"Oceania","80+ years",2011,"Male",861.144302090556
+"Oceania","80+ years",2012,"Female",349.866165171578
+"Oceania","80+ years",2012,"Male",862.856130133459
+"Oceania","80+ years",2013,"Female",353.695337081836
+"Oceania","80+ years",2013,"Male",865.25940777899
+"Oceania","80+ years",2014,"Female",357.304898752996
+"Oceania","80+ years",2014,"Male",869.538337383619
+"Oceania","80+ years",2015,"Female",363.579696250919
+"Oceania","80+ years",2015,"Male",873.183788450347
+"Oceania","80+ years",2016,"Female",368.025261257818
+"Oceania","80+ years",2016,"Male",878.986956764394
+"Oceania","80+ years",2017,"Female",368.969707785504
+"Oceania","80+ years",2017,"Male",874.740035979269
+"Oceania","80+ years",2018,"Female",367.240347619044
+"Oceania","80+ years",2018,"Male",868.673648262549
+"Oceania","80+ years",2019,"Female",363.84915511275
+"Oceania","80+ years",2019,"Male",866.173692323543
+"South America","0-19 years",1990,"Female",50.8230591519644
+"South America","0-19 years",1990,"Male",62.9778891172293
+"South America","0-19 years",1991,"Female",50.1393576725598
+"South America","0-19 years",1991,"Male",63.1568479931597
+"South America","0-19 years",1992,"Female",49.1256669769165
+"South America","0-19 years",1992,"Male",64.201280221575
+"South America","0-19 years",1993,"Female",50.4705113226603
+"South America","0-19 years",1993,"Male",68.391476423071
+"South America","0-19 years",1994,"Female",48.9677173927608
+"South America","0-19 years",1994,"Male",67.904926829904
+"South America","0-19 years",1995,"Female",46.8484282153368
+"South America","0-19 years",1995,"Male",66.1857571774531
+"South America","0-19 years",1996,"Female",47.5138743243525
+"South America","0-19 years",1996,"Male",67.4874793426561
+"South America","0-19 years",1997,"Female",46.8632475418248
+"South America","0-19 years",1997,"Male",67.6096121566864
+"South America","0-19 years",1998,"Female",48.8245719314967
+"South America","0-19 years",1998,"Male",71.6785430190751
+"South America","0-19 years",1999,"Female",48.4911705039737
+"South America","0-19 years",1999,"Male",74.1456257168964
+"South America","0-19 years",2000,"Female",44.9199265902966
+"South America","0-19 years",2000,"Male",71.6803775259099
+"South America","0-19 years",2001,"Female",44.7334352847444
+"South America","0-19 years",2001,"Male",73.9408003692095
+"South America","0-19 years",2002,"Female",47.3897093423073
+"South America","0-19 years",2002,"Male",75.9637485216617
+"South America","0-19 years",2003,"Female",48.5479207382369
+"South America","0-19 years",2003,"Male",75.5180699183702
+"South America","0-19 years",2004,"Female",50.3240018678297
+"South America","0-19 years",2004,"Male",79.957743121117
+"South America","0-19 years",2005,"Female",50.5193669648344
+"South America","0-19 years",2005,"Male",81.1868995402029
+"South America","0-19 years",2006,"Female",52.6949682190686
+"South America","0-19 years",2006,"Male",83.3760269760873
+"South America","0-19 years",2007,"Female",55.6102053843844
+"South America","0-19 years",2007,"Male",86.6212600209119
+"South America","0-19 years",2008,"Female",56.8039553419224
+"South America","0-19 years",2008,"Male",87.3120675994669
+"South America","0-19 years",2009,"Female",55.1594229027545
+"South America","0-19 years",2009,"Male",89.8205622774091
+"South America","0-19 years",2010,"Female",54.1748361043827
+"South America","0-19 years",2010,"Male",90.887483066087
+"South America","0-19 years",2011,"Female",51.9561898359631
+"South America","0-19 years",2011,"Male",92.7857282580906
+"South America","0-19 years",2012,"Female",53.6886535949948
+"South America","0-19 years",2012,"Male",93.0628815532164
+"South America","0-19 years",2013,"Female",55.3153588992736
+"South America","0-19 years",2013,"Male",91.6179508898438
+"South America","0-19 years",2014,"Female",55.0494162970796
+"South America","0-19 years",2014,"Male",90.0997412114174
+"South America","0-19 years",2015,"Female",53.0648776803704
+"South America","0-19 years",2015,"Male",88.434338671117
+"South America","0-19 years",2016,"Female",53.5618078918809
+"South America","0-19 years",2016,"Male",86.7627092835455
+"South America","0-19 years",2017,"Female",51.5975509740829
+"South America","0-19 years",2017,"Male",84.4528635106702
+"South America","0-19 years",2018,"Female",49.2987509135873
+"South America","0-19 years",2018,"Male",81.6783178464091
+"South America","0-19 years",2019,"Female",47.4208670715496
+"South America","0-19 years",2019,"Male",78.9579107849662
+"South America","20-39 years",1990,"Female",268.146100552883
+"South America","20-39 years",1990,"Male",970.41571964062
+"South America","20-39 years",1991,"Female",279.239940098006
+"South America","20-39 years",1991,"Male",985.351917906318
+"South America","20-39 years",1992,"Female",288.438425935185
+"South America","20-39 years",1992,"Male",992.570472820951
+"South America","20-39 years",1993,"Female",305.431539560565
+"South America","20-39 years",1993,"Male",1033.15463851121
+"South America","20-39 years",1994,"Female",302.452728432535
+"South America","20-39 years",1994,"Male",1036.14224089856
+"South America","20-39 years",1995,"Female",290.283775902254
+"South America","20-39 years",1995,"Male",1027.81379905925
+"South America","20-39 years",1996,"Female",281.409568121755
+"South America","20-39 years",1996,"Male",1054.56164737866
+"South America","20-39 years",1997,"Female",279.990890426017
+"South America","20-39 years",1997,"Male",1094.94790414584
+"South America","20-39 years",1998,"Female",285.569426606971
+"South America","20-39 years",1998,"Male",1151.37037698354
+"South America","20-39 years",1999,"Female",287.587772568488
+"South America","20-39 years",1999,"Male",1176.32691234505
+"South America","20-39 years",2000,"Female",279.298377290341
+"South America","20-39 years",2000,"Male",1092.08276348968
+"South America","20-39 years",2001,"Female",266.633131310863
+"South America","20-39 years",2001,"Male",1123.00984802485
+"South America","20-39 years",2002,"Female",269.327238043431
+"South America","20-39 years",2002,"Male",1156.52641392521
+"South America","20-39 years",2003,"Female",276.084250560792
+"South America","20-39 years",2003,"Male",1169.09121019978
+"South America","20-39 years",2004,"Female",277.601382171154
+"South America","20-39 years",2004,"Male",1172.22239913267
+"South America","20-39 years",2005,"Female",276.960528047388
+"South America","20-39 years",2005,"Male",1144.52938684524
+"South America","20-39 years",2006,"Female",277.373244818979
+"South America","20-39 years",2006,"Male",1158.49225799962
+"South America","20-39 years",2007,"Female",276.950120314227
+"South America","20-39 years",2007,"Male",1180.29833586234
+"South America","20-39 years",2008,"Female",273.478185835452
+"South America","20-39 years",2008,"Male",1181.90252462688
+"South America","20-39 years",2009,"Female",273.379123069498
+"South America","20-39 years",2009,"Male",1198.47394325924
+"South America","20-39 years",2010,"Female",267.720819188639
+"South America","20-39 years",2010,"Male",1219.30179392888
+"South America","20-39 years",2011,"Female",259.15954613726
+"South America","20-39 years",2011,"Male",1222.48507826074
+"South America","20-39 years",2012,"Female",255.77593615387
+"South America","20-39 years",2012,"Male",1207.6518156642
+"South America","20-39 years",2013,"Female",247.601823718533
+"South America","20-39 years",2013,"Male",1195.61903399288
+"South America","20-39 years",2014,"Female",249.456298713952
+"South America","20-39 years",2014,"Male",1185.35420600649
+"South America","20-39 years",2015,"Female",256.552017658151
+"South America","20-39 years",2015,"Male",1193.72581633417
+"South America","20-39 years",2016,"Female",260.732970947829
+"South America","20-39 years",2016,"Male",1194.86725381971
+"South America","20-39 years",2017,"Female",258.961383760128
+"South America","20-39 years",2017,"Male",1189.27403915304
+"South America","20-39 years",2018,"Female",257.29736806318
+"South America","20-39 years",2018,"Male",1178.53094142338
+"South America","20-39 years",2019,"Female",250.511775152292
+"South America","20-39 years",2019,"Male",1155.41941171438
+"South America","40-59 years",1990,"Female",292.217900978419
+"South America","40-59 years",1990,"Male",1091.77910266613
+"South America","40-59 years",1991,"Female",296.222604871112
+"South America","40-59 years",1991,"Male",1101.41427559061
+"South America","40-59 years",1992,"Female",294.189816456309
+"South America","40-59 years",1992,"Male",1103.54931326694
+"South America","40-59 years",1993,"Female",302.152078116596
+"South America","40-59 years",1993,"Male",1134.30365284978
+"South America","40-59 years",1994,"Female",297.114641568096
+"South America","40-59 years",1994,"Male",1116.02711537017
+"South America","40-59 years",1995,"Female",288.218645868726
+"South America","40-59 years",1995,"Male",1099.39562400785
+"South America","40-59 years",1996,"Female",283.78000536653
+"South America","40-59 years",1996,"Male",1118.18008592625
+"South America","40-59 years",1997,"Female",276.30493046791
+"South America","40-59 years",1997,"Male",1121.3551535036
+"South America","40-59 years",1998,"Female",282.227972759899
+"South America","40-59 years",1998,"Male",1172.29844280205
+"South America","40-59 years",1999,"Female",284.903231731756
+"South America","40-59 years",1999,"Male",1187.01845768932
+"South America","40-59 years",2000,"Female",288.600818913868
+"South America","40-59 years",2000,"Male",1144.02162239515
+"South America","40-59 years",2001,"Female",291.642435024855
+"South America","40-59 years",2001,"Male",1212.32830937114
+"South America","40-59 years",2002,"Female",297.502228218307
+"South America","40-59 years",2002,"Male",1251.25200430623
+"South America","40-59 years",2003,"Female",294.612946058879
+"South America","40-59 years",2003,"Male",1246.48896593126
+"South America","40-59 years",2004,"Female",286.847317628381
+"South America","40-59 years",2004,"Male",1231.45828130089
+"South America","40-59 years",2005,"Female",280.479308460863
+"South America","40-59 years",2005,"Male",1204.97916706233
+"South America","40-59 years",2006,"Female",276.797633742224
+"South America","40-59 years",2006,"Male",1202.84026422079
+"South America","40-59 years",2007,"Female",274.799361472576
+"South America","40-59 years",2007,"Male",1219.52555464447
+"South America","40-59 years",2008,"Female",273.209175085293
+"South America","40-59 years",2008,"Male",1224.18796999027
+"South America","40-59 years",2009,"Female",272.029354169412
+"South America","40-59 years",2009,"Male",1234.49355926916
+"South America","40-59 years",2010,"Female",274.288602994587
+"South America","40-59 years",2010,"Male",1244.83706821951
+"South America","40-59 years",2011,"Female",270.155887906037
+"South America","40-59 years",2011,"Male",1239.52865275877
+"South America","40-59 years",2012,"Female",271.350638564863
+"South America","40-59 years",2012,"Male",1237.59434018203
+"South America","40-59 years",2013,"Female",268.832768966279
+"South America","40-59 years",2013,"Male",1217.10755677049
+"South America","40-59 years",2014,"Female",267.571285309277
+"South America","40-59 years",2014,"Male",1206.35438005638
+"South America","40-59 years",2015,"Female",266.479528716299
+"South America","40-59 years",2015,"Male",1208.68459967977
+"South America","40-59 years",2016,"Female",264.953633052558
+"South America","40-59 years",2016,"Male",1212.76566452141
+"South America","40-59 years",2017,"Female",262.227699213804
+"South America","40-59 years",2017,"Male",1198.73523480996
+"South America","40-59 years",2018,"Female",257.28754304274
+"South America","40-59 years",2018,"Male",1174.63217832622
+"South America","40-59 years",2019,"Female",250.607166751917
+"South America","40-59 years",2019,"Male",1139.57978966851
+"South America","60-79 years",1990,"Female",99.7680130887906
+"South America","60-79 years",1990,"Male",353.240330078849
+"South America","60-79 years",1991,"Female",98.8851056638886
+"South America","60-79 years",1991,"Male",352.835292439406
+"South America","60-79 years",1992,"Female",98.1177168991262
+"South America","60-79 years",1992,"Male",353.761412144145
+"South America","60-79 years",1993,"Female",99.8935523431522
+"South America","60-79 years",1993,"Male",366.091251665741
+"South America","60-79 years",1994,"Female",95.2687193208447
+"South America","60-79 years",1994,"Male",359.692394502721
+"South America","60-79 years",1995,"Female",90.9733092773143
+"South America","60-79 years",1995,"Male",352.453190209358
+"South America","60-79 years",1996,"Female",90.0493298056531
+"South America","60-79 years",1996,"Male",352.479387862169
+"South America","60-79 years",1997,"Female",87.5589398459468
+"South America","60-79 years",1997,"Male",353.733113913493
+"South America","60-79 years",1998,"Female",87.8133438767396
+"South America","60-79 years",1998,"Male",370.994315930865
+"South America","60-79 years",1999,"Female",86.4376957667663
+"South America","60-79 years",1999,"Male",377.691430883487
+"South America","60-79 years",2000,"Female",86.1531249014345
+"South America","60-79 years",2000,"Male",370.637640251411
+"South America","60-79 years",2001,"Female",84.5594840898391
+"South America","60-79 years",2001,"Male",381.987482055623
+"South America","60-79 years",2002,"Female",86.0265111023233
+"South America","60-79 years",2002,"Male",386.539324719027
+"South America","60-79 years",2003,"Female",84.785243330494
+"South America","60-79 years",2003,"Male",384.649751129409
+"South America","60-79 years",2004,"Female",83.5665057614262
+"South America","60-79 years",2004,"Male",378.75656244975
+"South America","60-79 years",2005,"Female",80.78163679844
+"South America","60-79 years",2005,"Male",367.79863942154
+"South America","60-79 years",2006,"Female",78.338994691926
+"South America","60-79 years",2006,"Male",358.501971325774
+"South America","60-79 years",2007,"Female",77.8029603707444
+"South America","60-79 years",2007,"Male",356.994918114418
+"South America","60-79 years",2008,"Female",77.3936176240499
+"South America","60-79 years",2008,"Male",351.285346309175
+"South America","60-79 years",2009,"Female",76.3291068483213
+"South America","60-79 years",2009,"Male",349.749575389737
+"South America","60-79 years",2010,"Female",75.3393036166745
+"South America","60-79 years",2010,"Male",350.693226920317
+"South America","60-79 years",2011,"Female",73.6348848376848
+"South America","60-79 years",2011,"Male",346.185832148387
+"South America","60-79 years",2012,"Female",73.2598424692483
+"South America","60-79 years",2012,"Male",342.544537342451
+"South America","60-79 years",2013,"Female",72.691874115045
+"South America","60-79 years",2013,"Male",339.911911828001
+"South America","60-79 years",2014,"Female",72.8387933909452
+"South America","60-79 years",2014,"Male",339.252315502384
+"South America","60-79 years",2015,"Female",73.3684720026554
+"South America","60-79 years",2015,"Male",338.589923696931
+"South America","60-79 years",2016,"Female",73.9319983137472
+"South America","60-79 years",2016,"Male",337.937757640794
+"South America","60-79 years",2017,"Female",73.7039813171969
+"South America","60-79 years",2017,"Male",336.176484808327
+"South America","60-79 years",2018,"Female",72.3316461828357
+"South America","60-79 years",2018,"Male",330.728615183655
+"South America","60-79 years",2019,"Female",70.7341517695006
+"South America","60-79 years",2019,"Male",322.288178020669
+"South America","80+ years",1990,"Female",94.2159110433553
+"South America","80+ years",1990,"Male",541.97162073495
+"South America","80+ years",1991,"Female",96.1900292331253
+"South America","80+ years",1991,"Male",552.09224347094
+"South America","80+ years",1992,"Female",96.199716269732
+"South America","80+ years",1992,"Male",567.826250276788
+"South America","80+ years",1993,"Female",100.581658898638
+"South America","80+ years",1993,"Male",609.881365176649
+"South America","80+ years",1994,"Female",97.4088978065637
+"South America","80+ years",1994,"Male",600.502307648143
+"South America","80+ years",1995,"Female",93.7034006622723
+"South America","80+ years",1995,"Male",585.041233714889
+"South America","80+ years",1996,"Female",90.6796931233505
+"South America","80+ years",1996,"Male",576.120703565863
+"South America","80+ years",1997,"Female",88.060544139075
+"South America","80+ years",1997,"Male",578.854284913196
+"South America","80+ years",1998,"Female",88.4654152487915
+"South America","80+ years",1998,"Male",602.264689248894
+"South America","80+ years",1999,"Female",85.516584989587
+"South America","80+ years",1999,"Male",596.775738863342
+"South America","80+ years",2000,"Female",85.1333652081596
+"South America","80+ years",2000,"Male",596.539628072451
+"South America","80+ years",2001,"Female",83.7207892815657
+"South America","80+ years",2001,"Male",598.510178790002
+"South America","80+ years",2002,"Female",84.8198067756496
+"South America","80+ years",2002,"Male",586.353019939501
+"South America","80+ years",2003,"Female",82.0712605171561
+"South America","80+ years",2003,"Male",577.823961953212
+"South America","80+ years",2004,"Female",81.4858589234112
+"South America","80+ years",2004,"Male",580.20275778256
+"South America","80+ years",2005,"Female",78.8866934141351
+"South America","80+ years",2005,"Male",558.304836399302
+"South America","80+ years",2006,"Female",75.85782303563
+"South America","80+ years",2006,"Male",541.679793662715
+"South America","80+ years",2007,"Female",75.7587554467585
+"South America","80+ years",2007,"Male",541.982023813156
+"South America","80+ years",2008,"Female",74.2590355824769
+"South America","80+ years",2008,"Male",545.659969241746
+"South America","80+ years",2009,"Female",74.7312220594592
+"South America","80+ years",2009,"Male",548.295904190989
+"South America","80+ years",2010,"Female",76.6472020288252
+"South America","80+ years",2010,"Male",542.106144262205
+"South America","80+ years",2011,"Female",76.7904502617737
+"South America","80+ years",2011,"Male",531.1554853531
+"South America","80+ years",2012,"Female",76.6386592422499
+"South America","80+ years",2012,"Male",535.734280730048
+"South America","80+ years",2013,"Female",76.031839872111
+"South America","80+ years",2013,"Male",558.234007496675
+"South America","80+ years",2014,"Female",74.8544219904619
+"South America","80+ years",2014,"Male",570.449997901773
+"South America","80+ years",2015,"Female",75.4602800362333
+"South America","80+ years",2015,"Male",555.21062662299
+"South America","80+ years",2016,"Female",75.8758083562913
+"South America","80+ years",2016,"Male",558.634087681802
+"South America","80+ years",2017,"Female",75.4008063072322
+"South America","80+ years",2017,"Male",556.005204743266
+"South America","80+ years",2018,"Female",74.5523738865887
+"South America","80+ years",2018,"Male",539.63025885068
+"South America","80+ years",2019,"Female",72.8991254519168
+"South America","80+ years",2019,"Male",523.267635180717
+NA,"0-19 years",1990,"Female",71.7224917355372
+NA,"0-19 years",1990,"Male",140.865641627305
+NA,"0-19 years",1991,"Female",71.4653807933649
+NA,"0-19 years",1991,"Male",142.701069271729
+NA,"0-19 years",1992,"Female",70.4612223448287
+NA,"0-19 years",1992,"Male",145.109237848305
+NA,"0-19 years",1993,"Female",70.4326872464272
+NA,"0-19 years",1993,"Male",149.600893428595
+NA,"0-19 years",1994,"Female",71.5078535918406
+NA,"0-19 years",1994,"Male",154.9907627293
+NA,"0-19 years",1995,"Female",71.9844632015471
+NA,"0-19 years",1995,"Male",155.661259456337
+NA,"0-19 years",1996,"Female",70.8887516664533
+NA,"0-19 years",1996,"Male",152.350059765205
+NA,"0-19 years",1997,"Female",70.4490915901396
+NA,"0-19 years",1997,"Male",148.386291896495
+NA,"0-19 years",1998,"Female",69.941991012847
+NA,"0-19 years",1998,"Male",145.419594947601
+NA,"0-19 years",1999,"Female",69.0235771350405
+NA,"0-19 years",1999,"Male",145.49191839362
+NA,"0-19 years",2000,"Female",67.1659162246133
+NA,"0-19 years",2000,"Male",144.154691820385
+NA,"0-19 years",2001,"Female",65.9616050118722
+NA,"0-19 years",2001,"Male",141.036929853112
+NA,"0-19 years",2002,"Female",64.5582969330245
+NA,"0-19 years",2002,"Male",137.06113886193
+NA,"0-19 years",2003,"Female",63.9670604397132
+NA,"0-19 years",2003,"Male",135.993611277007
+NA,"0-19 years",2004,"Female",63.2528579114921
+NA,"0-19 years",2004,"Male",133.94461323864
+NA,"0-19 years",2005,"Female",63.2607019001994
+NA,"0-19 years",2005,"Male",134.470594144465
+NA,"0-19 years",2006,"Female",62.3699998992089
+NA,"0-19 years",2006,"Male",131.758689491815
+NA,"0-19 years",2007,"Female",62.3761028562098
+NA,"0-19 years",2007,"Male",130.634092161463
+NA,"0-19 years",2008,"Female",62.0910636329825
+NA,"0-19 years",2008,"Male",129.199584702096
+NA,"0-19 years",2009,"Female",61.7685657511878
+NA,"0-19 years",2009,"Male",126.240387457782
+NA,"0-19 years",2010,"Female",60.4368444220704
+NA,"0-19 years",2010,"Male",125.885849854321
+NA,"0-19 years",2011,"Female",58.6074346975118
+NA,"0-19 years",2011,"Male",123.904009591803
+NA,"0-19 years",2012,"Female",57.5004566059178
+NA,"0-19 years",2012,"Male",123.809747117049
+NA,"0-19 years",2013,"Female",56.1581469624785
+NA,"0-19 years",2013,"Male",120.95954787784
+NA,"0-19 years",2014,"Female",56.0266203267821
+NA,"0-19 years",2014,"Male",118.051284245411
+NA,"0-19 years",2015,"Female",54.7434848240352
+NA,"0-19 years",2015,"Male",112.799748293022
+NA,"0-19 years",2016,"Female",53.0119968706783
+NA,"0-19 years",2016,"Male",110.336674261378
+NA,"0-19 years",2017,"Female",51.6970005795188
+NA,"0-19 years",2017,"Male",107.460521915416
+NA,"0-19 years",2018,"Female",50.9983081671675
+NA,"0-19 years",2018,"Male",107.105490188271
+NA,"0-19 years",2019,"Female",49.1041208157791
+NA,"0-19 years",2019,"Male",104.935315160064
+NA,"20-39 years",1990,"Female",620.481568072308
+NA,"20-39 years",1990,"Male",1883.60106651552
+NA,"20-39 years",1991,"Female",616.373429441274
+NA,"20-39 years",1991,"Male",1912.12671609523
+NA,"20-39 years",1992,"Female",608.924046054643
+NA,"20-39 years",1992,"Male",1967.32495032039
+NA,"20-39 years",1993,"Female",614.518935833916
+NA,"20-39 years",1993,"Male",2064.18676248562
+NA,"20-39 years",1994,"Female",621.286242216107
+NA,"20-39 years",1994,"Male",2161.02846206857
+NA,"20-39 years",1995,"Female",616.322622790582
+NA,"20-39 years",1995,"Male",2164.42294935033
+NA,"20-39 years",1996,"Female",604.800037250399
+NA,"20-39 years",1996,"Male",2125.82733006725
+NA,"20-39 years",1997,"Female",594.756412047041
+NA,"20-39 years",1997,"Male",2066.07010542125
+NA,"20-39 years",1998,"Female",581.102985711236
+NA,"20-39 years",1998,"Male",2042.59336290774
+NA,"20-39 years",1999,"Female",577.293992101493
+NA,"20-39 years",1999,"Male",2069.58665286104
+NA,"20-39 years",2000,"Female",568.978887595761
+NA,"20-39 years",2000,"Male",2071.33532580889
+NA,"20-39 years",2001,"Female",562.291756081353
+NA,"20-39 years",2001,"Male",2045.9812903665
+NA,"20-39 years",2002,"Female",558.463482849197
+NA,"20-39 years",2002,"Male",2016.47061757113
+NA,"20-39 years",2003,"Female",561.342435630271
+NA,"20-39 years",2003,"Male",2027.50154107838
+NA,"20-39 years",2004,"Female",555.701672410724
+NA,"20-39 years",2004,"Male",2018.40321293617
+NA,"20-39 years",2005,"Female",564.087872208193
+NA,"20-39 years",2005,"Male",2043.55533185926
+NA,"20-39 years",2006,"Female",550.521478415056
+NA,"20-39 years",2006,"Male",1988.68192719579
+NA,"20-39 years",2007,"Female",552.73977068445
+NA,"20-39 years",2007,"Male",1953.01917859868
+NA,"20-39 years",2008,"Female",551.016994518002
+NA,"20-39 years",2008,"Male",1931.55129982969
+NA,"20-39 years",2009,"Female",544.121563289302
+NA,"20-39 years",2009,"Male",1902.4409201414
+NA,"20-39 years",2010,"Female",533.521507944278
+NA,"20-39 years",2010,"Male",1899.80737773055
+NA,"20-39 years",2011,"Female",514.389541159303
+NA,"20-39 years",2011,"Male",1841.62932795099
+NA,"20-39 years",2012,"Female",500.213975474191
+NA,"20-39 years",2012,"Male",1814.09594674128
+NA,"20-39 years",2013,"Female",487.284147422429
+NA,"20-39 years",2013,"Male",1789.67343442376
+NA,"20-39 years",2014,"Female",485.264502401385
+NA,"20-39 years",2014,"Male",1783.39561918031
+NA,"20-39 years",2015,"Female",475.602468034247
+NA,"20-39 years",2015,"Male",1749.80150328605
+NA,"20-39 years",2016,"Female",462.541898066487
+NA,"20-39 years",2016,"Male",1726.63738257067
+NA,"20-39 years",2017,"Female",452.539439396989
+NA,"20-39 years",2017,"Male",1703.96793306732
+NA,"20-39 years",2018,"Female",448.782996275299
+NA,"20-39 years",2018,"Male",1668.40446721016
+NA,"20-39 years",2019,"Female",440.271383692952
+NA,"20-39 years",2019,"Male",1638.91361098171
+NA,"40-59 years",1990,"Female",782.078939095636
+NA,"40-59 years",1990,"Male",2592.99784673247
+NA,"40-59 years",1991,"Female",777.347793455365
+NA,"40-59 years",1991,"Male",2611.17996460543
+NA,"40-59 years",1992,"Female",763.71551549625
+NA,"40-59 years",1992,"Male",2671.45546655567
+NA,"40-59 years",1993,"Female",775.98061965684
+NA,"40-59 years",1993,"Male",2820.28649597169
+NA,"40-59 years",1994,"Female",791.751089851879
+NA,"40-59 years",1994,"Male",2981.97788516901
+NA,"40-59 years",1995,"Female",784.491066955592
+NA,"40-59 years",1995,"Male",2969.05780435696
+NA,"40-59 years",1996,"Female",762.750176777544
+NA,"40-59 years",1996,"Male",2889.25605425593
+NA,"40-59 years",1997,"Female",743.762854136978
+NA,"40-59 years",1997,"Male",2799.32611935929
+NA,"40-59 years",1998,"Female",729.132922767345
+NA,"40-59 years",1998,"Male",2770.08841602572
+NA,"40-59 years",1999,"Female",730.099459002029
+NA,"40-59 years",1999,"Male",2826.55351535397
+NA,"40-59 years",2000,"Female",727.962305668073
+NA,"40-59 years",2000,"Male",2852.51612534385
+NA,"40-59 years",2001,"Female",725.975282279505
+NA,"40-59 years",2001,"Male",2841.09064146253
+NA,"40-59 years",2002,"Female",721.675519717181
+NA,"40-59 years",2002,"Male",2826.52640067646
+NA,"40-59 years",2003,"Female",724.711610889388
+NA,"40-59 years",2003,"Male",2840.85750961452
+NA,"40-59 years",2004,"Female",716.710840656191
+NA,"40-59 years",2004,"Male",2807.86919711045
+NA,"40-59 years",2005,"Female",723.633054771214
+NA,"40-59 years",2005,"Male",2835.1502481271
+NA,"40-59 years",2006,"Female",707.550256649604
+NA,"40-59 years",2006,"Male",2737.14897225294
+NA,"40-59 years",2007,"Female",699.057533792281
+NA,"40-59 years",2007,"Male",2673.62117213284
+NA,"40-59 years",2008,"Female",696.548324175123
+NA,"40-59 years",2008,"Male",2654.52996372971
+NA,"40-59 years",2009,"Female",689.631289301364
+NA,"40-59 years",2009,"Male",2611.71883777892
+NA,"40-59 years",2010,"Female",682.239076657522
+NA,"40-59 years",2010,"Male",2592.10018762182
+NA,"40-59 years",2011,"Female",665.432787190509
+NA,"40-59 years",2011,"Male",2497.49272636455
+NA,"40-59 years",2012,"Female",658.590591747271
+NA,"40-59 years",2012,"Male",2452.89285033098
+NA,"40-59 years",2013,"Female",649.377880216602
+NA,"40-59 years",2013,"Male",2400.98632146989
+NA,"40-59 years",2014,"Female",645.745509652139
+NA,"40-59 years",2014,"Male",2383.92970004674
+NA,"40-59 years",2015,"Female",633.01442723695
+NA,"40-59 years",2015,"Male",2341.05638031513
+NA,"40-59 years",2016,"Female",621.951391112185
+NA,"40-59 years",2016,"Male",2292.36549630525
+NA,"40-59 years",2017,"Female",606.472232375087
+NA,"40-59 years",2017,"Male",2223.18013054228
+NA,"40-59 years",2018,"Female",597.36072272219
+NA,"40-59 years",2018,"Male",2193.62656991474
+NA,"40-59 years",2019,"Female",587.851840878784
+NA,"40-59 years",2019,"Male",2156.56200517114
+NA,"60-79 years",1990,"Female",301.231262894605
+NA,"60-79 years",1990,"Male",871.624542226635
+NA,"60-79 years",1991,"Female",296.647979705278
+NA,"60-79 years",1991,"Male",866.814534627297
+NA,"60-79 years",1992,"Female",291.531321405809
+NA,"60-79 years",1992,"Male",870.995475533202
+NA,"60-79 years",1993,"Female",292.216494256879
+NA,"60-79 years",1993,"Male",887.639380821596
+NA,"60-79 years",1994,"Female",294.402168970416
+NA,"60-79 years",1994,"Male",908.65351036354
+NA,"60-79 years",1995,"Female",293.749709973042
+NA,"60-79 years",1995,"Male",908.351382773906
+NA,"60-79 years",1996,"Female",290.433025371526
+NA,"60-79 years",1996,"Male",907.386072396616
+NA,"60-79 years",1997,"Female",287.367482578657
+NA,"60-79 years",1997,"Male",906.629907567638
+NA,"60-79 years",1998,"Female",286.33268488403
+NA,"60-79 years",1998,"Male",909.068908587054
+NA,"60-79 years",1999,"Female",286.685265692144
+NA,"60-79 years",1999,"Male",921.212268999939
+NA,"60-79 years",2000,"Female",286.653280030214
+NA,"60-79 years",2000,"Male",925.892917118223
+NA,"60-79 years",2001,"Female",286.740383673271
+NA,"60-79 years",2001,"Male",921.66118143661
+NA,"60-79 years",2002,"Female",288.322006336932
+NA,"60-79 years",2002,"Male",918.254474544946
+NA,"60-79 years",2003,"Female",290.190786852954
+NA,"60-79 years",2003,"Male",919.620276132099
+NA,"60-79 years",2004,"Female",289.059253864691
+NA,"60-79 years",2004,"Male",908.149610506954
+NA,"60-79 years",2005,"Female",289.843952541373
+NA,"60-79 years",2005,"Male",907.15436106193
+NA,"60-79 years",2006,"Female",285.435049853013
+NA,"60-79 years",2006,"Male",873.967681472207
+NA,"60-79 years",2007,"Female",281.878577364797
+NA,"60-79 years",2007,"Male",853.313990729922
+NA,"60-79 years",2008,"Female",277.441005649392
+NA,"60-79 years",2008,"Male",845.378479550399
+NA,"60-79 years",2009,"Female",272.720879574594
+NA,"60-79 years",2009,"Male",831.076446697042
+NA,"60-79 years",2010,"Female",269.270432661417
+NA,"60-79 years",2010,"Male",823.048571759261
+NA,"60-79 years",2011,"Female",263.517420705393
+NA,"60-79 years",2011,"Male",806.149320182927
+NA,"60-79 years",2012,"Female",259.589241998273
+NA,"60-79 years",2012,"Male",796.57596288462
+NA,"60-79 years",2013,"Female",254.219763095167
+NA,"60-79 years",2013,"Male",784.890837719908
+NA,"60-79 years",2014,"Female",250.314184294641
+NA,"60-79 years",2014,"Male",774.940429326473
+NA,"60-79 years",2015,"Female",245.170236828782
+NA,"60-79 years",2015,"Male",763.122186732365
+NA,"60-79 years",2016,"Female",241.50753908321
+NA,"60-79 years",2016,"Male",751.120829352741
+NA,"60-79 years",2017,"Female",236.864877392529
+NA,"60-79 years",2017,"Male",739.550247234602
+NA,"60-79 years",2018,"Female",235.75575152115
+NA,"60-79 years",2018,"Male",762.78955276927
+NA,"60-79 years",2019,"Female",233.387695091148
+NA,"60-79 years",2019,"Male",752.539033398347
+NA,"80+ years",1990,"Female",431.13042288759
+NA,"80+ years",1990,"Male",1424.57787666374
+NA,"80+ years",1991,"Female",426.705780246004
+NA,"80+ years",1991,"Male",1416.2253045089
+NA,"80+ years",1992,"Female",424.022666818552
+NA,"80+ years",1992,"Male",1419.88803884725
+NA,"80+ years",1993,"Female",427.073061199949
+NA,"80+ years",1993,"Male",1442.2571103262
+NA,"80+ years",1994,"Female",432.409849908257
+NA,"80+ years",1994,"Male",1468.25579623939
+NA,"80+ years",1995,"Female",436.387933833387
+NA,"80+ years",1995,"Male",1470.10094320665
+NA,"80+ years",1996,"Female",437.191417677952
+NA,"80+ years",1996,"Male",1470.18503678705
+NA,"80+ years",1997,"Female",440.925159464552
+NA,"80+ years",1997,"Male",1482.15571501538
+NA,"80+ years",1998,"Female",451.266560373368
+NA,"80+ years",1998,"Male",1508.34551156984
+NA,"80+ years",1999,"Female",461.441544884195
+NA,"80+ years",1999,"Male",1526.54530849277
+NA,"80+ years",2000,"Female",468.718164880016
+NA,"80+ years",2000,"Male",1537.23505684926
+NA,"80+ years",2001,"Female",474.814892222629
+NA,"80+ years",2001,"Male",1530.26850938168
+NA,"80+ years",2002,"Female",486.420452501259
+NA,"80+ years",2002,"Male",1542.49467384
+NA,"80+ years",2003,"Female",493.211022853215
+NA,"80+ years",2003,"Male",1550.52077538797
+NA,"80+ years",2004,"Female",494.333630973914
+NA,"80+ years",2004,"Male",1541.00524605005
+NA,"80+ years",2005,"Female",494.371455448102
+NA,"80+ years",2005,"Male",1535.89206575982
+NA,"80+ years",2006,"Female",487.531969595727
+NA,"80+ years",2006,"Male",1514.11554554129
+NA,"80+ years",2007,"Female",480.887694159654
+NA,"80+ years",2007,"Male",1492.72398530893
+NA,"80+ years",2008,"Female",470.555331882039
+NA,"80+ years",2008,"Male",1493.91267616421
+NA,"80+ years",2009,"Female",460.059229866039
+NA,"80+ years",2009,"Male",1484.05613247261
+NA,"80+ years",2010,"Female",454.4403443255
+NA,"80+ years",2010,"Male",1475.91921055633
+NA,"80+ years",2011,"Female",448.195781970242
+NA,"80+ years",2011,"Male",1464.78496011746
+NA,"80+ years",2012,"Female",439.731632364403
+NA,"80+ years",2012,"Male",1451.8730425021
+NA,"80+ years",2013,"Female",428.737820682424
+NA,"80+ years",2013,"Male",1430.184022942
+NA,"80+ years",2014,"Female",421.326832335981
+NA,"80+ years",2014,"Male",1410.74897193299
+NA,"80+ years",2015,"Female",418.132451683779
+NA,"80+ years",2015,"Male",1402.78619313537
+NA,"80+ years",2016,"Female",417.926394959762
+NA,"80+ years",2016,"Male",1386.3477179249
+NA,"80+ years",2017,"Female",415.167941163547
+NA,"80+ years",2017,"Male",1376.87720263908
+NA,"80+ years",2018,"Female",413.457873453086
+NA,"80+ years",2018,"Male",1414.53956766909
+NA,"80+ years",2019,"Female",411.733172926006
+NA,"80+ years",2019,"Male",1403.4032941038
