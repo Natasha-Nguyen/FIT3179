@@ -1,0 +1,157 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Suicides and Mental Disorders",
+    "width": 500,
+    "height": 300,
+    "data": {
+        "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/ms_s_as_pop.csv"
+    },
+    "params": [
+        {
+            "name": "Disorder_selection",
+            "value": "Anxiety disorders",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "Anxiety disorders",
+                    "Bipolar disorder",
+                    "Depressive disorders",
+                    "Eating disorders",
+                    "Schizophrenia"
+                ],
+                "labels": [
+                    "Anxiety disorders",
+                    "Bipolar disorder",
+                    "Depressive disorders",
+                    "Eating disorders",
+                    "Schizophrenia"
+                ],
+                "name": "Mental Disorder: "
+            }
+        },
+        {
+            "name": "Year_Select",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 1990,
+                "max": 2019,
+                "step": 1,
+                "name": "Year"
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "datum.Year == Year_Select"
+        },
+        {
+            "filter": "Disorder_selection == null || datum.MentalDisorder == Disorder_selection"
+        },
+        {
+            "calculate": "max(datum.Rate)",
+            "as": "Max Death Rate"
+        }
+    ],
+    "selection": {
+        "continent_highlight": {
+            "type": "multi",
+            "fields": [
+                "Continent"
+            ],
+            "bind": "legend"
+        }
+    },
+    "mark": "circle",
+    "encoding": {
+        "y": {
+            "field": "Rate",
+            "title": "Death Rate per 100,000 population",
+            "type": "quantitative",
+            "scale": {
+                "type": "linear",
+                "domain": [
+                    0,
+                    262
+                ]
+            },
+            "axis": {
+                "tickCount": 5
+            }
+        },
+        "x": {
+            "field": "Percent",
+            "title": "Prevalence of Mental Disorder %",
+            "axis": {
+                "tickCount": 10
+            },
+            "scale": {
+                "type": "linear"
+            }
+        },
+        "color": {
+            "field": "Continent"
+        },
+        "size": {
+            "field": "Population",
+            "type": "quantitative",
+            "scale": {
+                "type": "threshold",
+                "domain": [
+                    1000000,
+                    10000000,
+                    50000000,
+                    100000000,
+                    500000000
+                ],
+                "range": [
+                    10,
+                    50,
+                    150,
+                    200,
+                    300,
+                    400
+                ]
+            }
+        },
+        "opacity": {
+            "condition": {
+                "selection": "continent_highlight",
+                "value": 0.7
+            },
+            "value": 0.2
+        },
+        "tooltip": [
+            {
+                "field": "Rate",
+                "title": "Death Rate",
+                "format": ".2f",
+                "type": "quantitative"
+            },
+            {
+                "field": "Year",
+                "type": "nominal"
+            },
+            {
+                "field": "Country",
+                "type": "nominal"
+            },
+            {
+                "field": "Population",
+                "type": "quantitative"
+            },
+            {
+                "field": "Percent",
+                "title": "Prevalence",
+                "type": "quantitative",
+                "format": ".2f"
+            }
+        ]
+    },
+    "config": {
+        "title": {
+            "font": "sans-serif",
+            "fontSize": 16
+        }
+    }
+}

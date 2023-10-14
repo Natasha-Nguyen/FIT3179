@@ -1,0 +1,106 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Age Standardised Suicide Rates (1990-2019)",
+    "width": 800,
+    "height": 400,
+    "params": [
+        {
+            "name": "Year_selection",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 1990,
+                "max": 2019,
+                "step": 1,
+                "name": "Year:  "
+            }
+        }
+    ],
+    "projection": {
+        "type": "equalEarth"
+    },
+    "layer": [
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Assignment-2/js/ne_110m_admin_0_countries.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "ne_110m_admin_0_countries"
+                }
+            },
+            "transform": [
+                {
+                    "calculate": "'Data is not available in ' + datum.properties.NAME",
+                    "as": "note"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "fill": "#ddd",
+                "stroke": "white",
+                "strokeWidth": 1
+            },
+            "encoding": {
+                "tooltip": {
+                    "field": "note"
+                }
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/suicides_agestandardised.csv"
+            },
+            "transform": [
+                {
+                    "lookup": "Country",
+                    "from": {
+                        "data": {
+                            "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Assignment-2/js/ne_110m_admin_0_countries.json",
+                            "format": {
+                                "type": "topojson",
+                                "feature": "ne_110m_admin_0_countries"
+                            }
+                        },
+                        "key": "properties.NAME",
+                        "fields": [
+                            "properties",
+                            "type",
+                            "geometry"
+                        ]
+                    }
+                },
+                {
+                    "filter": "datum.Year == Year_selection"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "stroke": "#fff",
+                "strokeWidth": 0.5
+            },
+            "encoding": {
+                "color": {
+                    "field": "Rate",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [10, 15, 20, 25, 30, 40, 50],
+                        "range": ["#b9d6ea", "#9cc8e2", "#7bb6d9", "#5ba3cf", "#408ec4", "#2978b8", "#1661a8", "#0E3A66"]
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "properties.NAME",
+                        "type": "nominal",
+                        "title": "Country Names"
+                    },
+                    {
+                        "field": "Rate",
+                        "type": "quantitative"
+                    }
+                ]
+            }
+        }
+    ],
+    "config": {"title": {"font": "sans-serif", "fontSize": 16}}
+}

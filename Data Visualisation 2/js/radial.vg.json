@@ -1,0 +1,103 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple radial chart with embedded data.",
+  "width": 300,
+  "height": 300,
+  "config": {
+    "title": {
+      "font": "sans-serif",
+      "fontSize": 16
+    }
+  },
+  "title": "Suicide Rate by Continent",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/suicides_agestandardised_continent.csv"
+  },
+  "params": [
+    {
+      "name": "Year_Select",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 1990,
+        "max": 2019,
+        "step": 1,
+        "name": "Year"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.Year == Year_Select"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "arc",
+        "innerRadius": 20,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "radiusOffset": 10
+      },
+      "encoding": {
+        "text": {
+          "field": "Rate",
+          "type": "quantitative",
+          "format": ".2f"
+        }
+      }
+    }
+  ],
+  "encoding": {
+    "theta": {
+      "field": "Rate",
+      "type": "quantitative",
+      "stack": true
+    },
+    "radius": {
+      "field": "Rate",
+      "scale": {
+        "type": "sqrt",
+        "zero": true,
+        "rangeMin": 20
+      }
+    },
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Africa",
+          "Asia",
+          "South America",
+          "Europe",
+          "North America",
+          "Oceania"
+        ],
+        "range": [
+          "#4c78a8",
+          "#f58518",
+          "#e45756",
+          "#72b7b2",
+          "#54a24b",
+          "#eeca3b"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Continent",
+        "type": "nominal"
+      },
+      {
+        "field": "Death Rate",
+        "type": "quantitative"
+      }
+    ]
+  }
+}

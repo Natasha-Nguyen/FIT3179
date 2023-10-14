@@ -1,0 +1,119 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 300,
+    "title": "Total Suicides by Age and Location",
+    "config": {
+        "title": {
+            "font": "sans-serif",
+            "fontSize": 16
+        }
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/suicides_fm_age20.csv"
+    },
+    "params": [
+        {
+            "name": "Continent_selection",
+            "value": "Africa",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "North America",
+                    "Oceania"
+                ],
+                "labels": [
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "North America",
+                    "Oceania"
+                ],
+                "name": "Continent: "
+            }
+        },
+        {
+            "name": "Year_Select",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 1990,
+                "max": 2019,
+                "step": 1,
+                "name": "Year"
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+        },
+        {
+            "filter": "datum.Year == Year_Select"
+        },
+        {
+            "aggregate": [
+                {
+                    "op": "sum",
+                    "field": "Rate",
+                    "as": "Total Suicides"
+                }
+            ],
+            "groupby": [
+                "Age Group",
+                "Sex"
+            ]
+        },
+        {
+            "calculate": "datum.Sex == 'Female' ? -datum['Total Suicides'] : datum['Total Suicides']",
+            "as": "Total Suicides"
+          },
+          {
+            "calculate": "abs(datum['Total Suicides'])",
+            "as": "Absolute Total Suicides"
+          }
+    ],
+    "mark": "bar",
+    "encoding": {
+        "y": {
+            "field": "Age Group",
+            "type": "nominal",
+            "title": "Age Group",
+            "sort": {
+                "field": "Age Group"
+            }
+        },
+        "x": {
+            "aggregate": "sum",
+            "field": "Total Suicides",
+            "type": "quantitative",
+            "title": "Total Suicides",
+            "axis": {
+                "format": "s"
+            }
+        },
+        "color": {
+            "field": "Sex",
+            "type": "nominal",
+            "scale": {"range": ["#fcbfd2", "#9ecae9"]}
+        },
+        "tooltip": [
+            {
+                "field": "Sex",
+                "type": "nominal"
+            },
+            {
+                "field": "Age Group",
+                "type": "nominal"
+            },
+            {
+                "field": "Absolute Total Suicides",
+                "type": "quantitative",
+                "format": ".2f"
+            }
+        ]
+    }
+}

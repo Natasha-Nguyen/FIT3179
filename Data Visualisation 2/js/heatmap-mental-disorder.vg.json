@@ -1,0 +1,130 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "data": {
+        "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/mental_disorder_continent.csv"
+    },
+    "title": "Prevalence of Mental Disorders across Age Groups",
+    "config": {
+        "title": {
+            "font": "sans-serif",
+            "fontSize": 16
+        }
+    },
+    "params": [
+        {
+            "name": "Continent_selection",
+            "value": "Africa",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "North America",
+                    "Oceania"
+                ],
+                "labels": [
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "North America",
+                    "Oceania"
+                ],
+                "name": "Continent: "
+            }
+        },
+        {
+            "name": "Year_Select",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 1990,
+                "max": 2019,
+                "step": 1,
+                "name": "Year"
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+        },
+        {
+            "filter": "datum.Year == Year_Select"
+        },
+        {
+            "aggregate": [
+                {
+                    "op": "sum",
+                    "field": "Percent",
+                    "as": "Prevalence"
+                }
+            ],
+            "groupby": [
+                "Year",
+                "Age Group",
+                "Mental Disorder",
+                "Continent"
+            ]
+        }
+    ],
+    "encoding": {
+        "x": {
+            "field": "Mental Disorder",
+            "type": "nominal",
+            "title": "Mental Disorder"
+        },
+        "y": {
+            "field": "Age Group",
+            "type": "nominal",
+            "title": "Age Group"
+        }
+    },
+    "layer": [
+        {
+            "mark": "rect",
+            "encoding": {
+                "color": {
+                    "field": "Prevalence",
+                    "type": "quantitative",
+                    "scale": {
+                        "scheme": "blues"
+                    },
+                    "legend": {
+                        "title": "Prevalence of Mental Disorder (%)"
+                    }
+                    
+                },
+                "tooltip": [
+                    {
+                        "field": "Age Group",
+                        "title": "Age Group",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Mental Disorder",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Prevalence",
+                        "type": "quantitative",
+                        "format": ".2f"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": "text",
+            "encoding": {
+              "text": {"field": "Prevalence", "type": "quantitative", "format": ".2f"},
+              "color": {
+                "condition": {"test": "datum['Prevalence'] < 10", "value": "black"},
+                "value": "white"
+              }
+            }
+          }
+    ]
+
+  }

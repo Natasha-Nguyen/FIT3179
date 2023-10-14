@@ -1,0 +1,94 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Suicide Rates in Most Affected Countries",
+    "width": 400,
+    "height": 300,
+    "data": {
+        "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/suicides_age20.csv"
+    },
+    "params": [
+        {
+            "name": "Continent_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Greenland",
+                    "Guyana",
+                    "Lesotho"
+                ],
+                "labels": [
+                    "Show All",
+                    "Greenland",
+                    "Guyana",
+                    "Lesotho"
+                ],
+                "name": "Country: "
+            }
+        }
+    ],
+    "mark": "area",
+    "transform": [
+        {
+            "filter": "Continent_selection == null || datum.Country == Continent_selection"
+        },
+        {
+            "aggregate": [
+                {
+                    "op": "sum",
+                    "field": "Rate",
+                    "as": "No of Suicides"
+                }
+            ],
+            "groupby": [
+                "Year",
+                "Age Group"
+            ]
+        }
+    ],
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "title": "No of Suicides",
+            "scale": {
+                "type": "linear",
+                "domain": [
+                    1990,
+                    2019
+                ],
+                "nice": 5
+            },
+            "axis": {
+                "format": "d"
+            }
+        },
+        "y": {
+            "aggregate": "sum",
+            "field": "No of Suicides",
+            "stack": "center"
+        },
+        "color": {
+            "field": "Age Group",
+            "scale": {
+                "scheme": "set3"
+            }
+        },
+        "tooltip": [
+            {
+                "field": "Age Group",
+                "type": "nominal"
+            },
+            {
+                "field": "No of Suicides",
+                "type": "quantitative",
+                "format": ".2f"
+            }
+        ]
+    },
+    "config": {
+        "title": {
+            "font": "sans-serif",
+            "fontSize": 16
+        }
+    }
+}
