@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Prevalence of Mental Disorders by Sex and Country",
-    "width": "container",
+    "width": 500,
     "height": 300,
     "data": {
         "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/mental_disorder_agestandard_fm.csv"
