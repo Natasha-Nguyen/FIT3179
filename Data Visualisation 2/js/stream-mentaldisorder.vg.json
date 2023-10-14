@@ -65,6 +65,7 @@
         "y": {
             "aggregate": "sum",
             "field": "No of Suicides",
+            "title": "Year",
             "stack": "center"
         },
         "color": {
