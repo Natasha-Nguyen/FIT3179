@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 500,
+    "width": "container",
     "height": 400,
     "data": {
         "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/mental_disorder_continent.csv"
