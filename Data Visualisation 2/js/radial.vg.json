@@ -11,7 +11,7 @@
   },
   "title": "Suicide Rate by Continent",
   "data": {
-    "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/suicides_agestandardised_continent.csv"
+    "url": "https://raw.githubusercontent.com/Natasha-Nguyen/FIT3179/main/Data%20Visualisation%202/data/suicides_agestandardised_proportion.csv"
   },
   "params": [
     {
@@ -42,25 +42,25 @@
     {
       "mark": {
         "type": "text",
-        "radiusOffset": 10
+        "radiusOffset": 20
       },
       "encoding": {
         "text": {
-          "field": "Rate",
+          "field": "Prop",
           "type": "quantitative",
-          "format": ".2f"
+          "format": ".2%"
         }
       }
     }
   ],
   "encoding": {
     "theta": {
-      "field": "Rate",
+      "field": "Prop",
       "type": "quantitative",
       "stack": true
     },
     "radius": {
-      "field": "Rate",
+      "field": "Prop",
       "scale": {
         "type": "sqrt",
         "zero": true,
@@ -95,8 +95,14 @@
         "type": "nominal"
       },
       {
-        "field": "Death Rate",
+        "field": "Rate",
         "type": "quantitative"
+      },
+      {
+        "field": "Prop",
+        "title": "Proportion of Suicides",
+        "type": "quantitative",
+        "format": ".4f"
       }
     ]
   }
