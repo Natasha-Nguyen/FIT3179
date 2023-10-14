@@ -81,6 +81,7 @@
             "encoding": {
                 "color": {
                     "field": "Rate",
+                    "title": "Suicide Rate",
                     "type": "quantitative",
                     "scale": {
                         "type": "threshold",
