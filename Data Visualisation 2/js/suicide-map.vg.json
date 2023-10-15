@@ -97,7 +97,8 @@
                     },
                     {
                         "field": "Rate",
-                        "type": "quantitative"
+                        "type": "quantitative",
+                        "format": ".2f"
                     }
                 ]
             }
