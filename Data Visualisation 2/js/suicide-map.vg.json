@@ -103,5 +103,5 @@
             }
         }
     ],
-    "config": {"title": {"font": "sans-serif", "fontSize": 16}}
+    "config": {"view": {"stroke": null},"title": {"font": "sans-serif", "fontSize": 16}}
 }
