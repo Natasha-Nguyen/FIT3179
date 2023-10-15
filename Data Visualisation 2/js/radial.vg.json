@@ -96,14 +96,10 @@
         "type": "nominal"
       },
       {
-        "field": "Rate",
-        "type": "quantitative"
-      },
-      {
         "field": "Prop",
         "title": "Proportion of Suicides",
         "type": "quantitative",
-        "format": ".4f"
+        "format": ".2%"
       }
     ]
   }
