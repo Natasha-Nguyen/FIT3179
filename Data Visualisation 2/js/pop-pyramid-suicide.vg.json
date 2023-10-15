@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": "container",
     "height": 300,
-    "title": "Total Suicides by Age and Location",
+    "title": "Total Suicides by Sex and Age",
     "config": {
         "title": {
             "font": "sans-serif",
