@@ -113,7 +113,7 @@
             },
             {
                 "field": "Male",
-                "title": "Prevalence in Females",
+                "title": "Prevalence in Males",
                 "type": "quantitative",
                 "format": ".2f"
             }
